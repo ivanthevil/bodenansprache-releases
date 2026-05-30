@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.1/Bodenansprache_0.1.1_Portable_Ordner.zip",
-  "notes": "Test-Release 0.1.1 mit Update-Funktion und NIIMBOT-Direktdruck."
+  "version": "0.1.2",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.2/Bodenansprache_0.1.2_Portable_Ordner.zip",
+  "notes": "Updater robuster gemacht: eigener Update-Starter, Logdatei und automatischer Neustart."
 }
