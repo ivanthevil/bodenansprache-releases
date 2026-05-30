@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.4/Bodenansprache_0.1.4_Portable_Ordner.zip",
-  "notes": "Updater robuster gemacht: Pfade mit Leerzeichen, ZIP-Pruefung, Logdatei und Neustart-Fallback."
+  "version": "0.1.5",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.5/Bodenansprache_0.1.5_Portable_Ordner.zip",
+  "notes": "Updater robuster gemacht: GitHub-API fuer Update-Check, Pfade mit Leerzeichen, ZIP-Pruefung und Neustart-Fallback."
 }
