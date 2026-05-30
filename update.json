@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.6/Bodenansprache_0.1.6_Portable_Ordner.zip",
-  "notes": "NIIMBOT-Fix fuer Windows-Tablet: Direktdruck startet das CLI jetzt korrekt im Electron/Portable-Betrieb."
+  "version": "0.1.7",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.7/Bodenansprache_0.1.7_Portable_Ordner.zip",
+  "notes": "Updater-Fix fuer Tablet: sicherer PowerShell-Start, Start-Check ueber update.log, App schliesst nur bei erfolgreichem Updater-Start."
 }
