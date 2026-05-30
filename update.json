@@ -1,5 +1,5 @@
 {
-  "version": "0.1.2",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.2/Bodenansprache_0.1.2_Portable_Ordner.zip",
-  "notes": "Updater robuster gemacht: eigener Update-Starter, Logdatei und automatischer Neustart."
+  "version": "0.1.3",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.3/Bodenansprache_0.1.3_Portable_Ordner.zip",
+  "notes": "NIIMBOT COM-Port in den Etiketten-Einstellungen auswÃ¤hlbar, Standard COM6."
 }
