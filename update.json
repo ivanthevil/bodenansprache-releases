@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.3/Bodenansprache_0.1.3_Portable_Ordner.zip",
-  "notes": "NIIMBOT COM-Port in den Etiketten-Einstellungen auswaehlbar, Standard COM6."
+  "version": "0.1.4",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.4/Bodenansprache_0.1.4_Portable_Ordner.zip",
+  "notes": "Updater robuster gemacht: Pfade mit Leerzeichen, ZIP-Pruefung, Logdatei und Neustart-Fallback."
 }
