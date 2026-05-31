@@ -1,5 +1,5 @@
 {
-  "version": "0.1.11",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.11/Bodenansprache_0.1.11_Portable_Ordner.zip",
-  "notes": "Updater robuster gemacht: ZIP-Entpacken zuerst ueber tar.exe, PowerShell nur noch als Fallback. Dazu Kopfzeilen-Helfer und Bohrung als Klick-Modal."
+  "version": "0.1.12",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.12/Bodenansprache_0.1.12_Portable_Ordner.zip",
+  "notes": "Neuer Einstellungen-Button oben mit Export-Ordner, Update und Darkmode. Dazu Bohrung als Klick-Auswahl und robustere Update-Basis."
 }
