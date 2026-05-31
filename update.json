@@ -1,5 +1,5 @@
 {
-  "version": "0.1.13",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.13/Bodenansprache_0.1.13_Portable_Ordner.zip",
-  "notes": "Updater repariert: externer PowerShell-Runner ersetzt jetzt die App-Dateien, ohne die laufende Bodenansprache.exe zu blockieren. Einstellungen und Darkmode bleiben enthalten."
+  "version": "0.1.14",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.14/Bodenansprache_0.1.14_Portable_Ordner.zip",
+  "notes": "Darkmode auf echtes Schwarz-Weiss umgestellt. Neuer Sonnenmodus fuer draussen mit maximalem Kontrast und etwas groesserer Grundschrift. Updater-Basis aus 0.1.13 bleibt erhalten."
 }
