@@ -1,6 +1,7 @@
 {
-  "version": "0.1.37",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.37/Bodenansprache_0.1.37_Portable_Ordner.zip",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.37/bOden-Installer-0.1.37.exe",
-  "notes": "Touch-Kopfzeile als Modal-Eingabe, GWM-Ausbau mit zweiter PDF-Seite und GeoDIN-Ausbau-Export, Bemerkungswahl erweitert."
+  "version": "0.1.38",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.38/Bodenansprache_0.1.38_Portable_Ordner.zip",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.38/bOden-Installer-0.1.38.exe",
+  "notes": "GWM verbessert: Scroller/Vorauswahl oben, Ausbau von unten nach oben, Grafik mit Ueberstand/Kappe/Spitze/Filterkies/Tonabdichtung und Feld fuer tatsaechliche Einbautiefe."
 }
+
