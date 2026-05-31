@@ -1,5 +1,5 @@
 {
-  "version": "0.1.17",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.17/Bodenansprache_0.1.17_Portable_Ordner.zip",
-  "notes": "Updater umgebaut: kein PowerShell-Start mehr, sondern ein einfacher Windows-CMD-Runner mit tar und robocopy. Das soll den Update-Start auf dem Windows-Tablet stabilisieren. Darkmode-Verbesserungen bleiben enthalten."
+  "version": "0.1.18",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.18/Bodenansprache_0.1.18_Portable_Ordner.zip",
+  "notes": "Testversion fuer den neuen CMD-Updater aus 0.1.17. Keine weitere Fachfunktion geaendert; dient zum Pruefen, ob das Tablet sauber von 0.1.17 auf 0.1.18 aktualisiert."
 }
