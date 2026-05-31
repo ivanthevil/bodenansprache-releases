@@ -1,5 +1,5 @@
 {
-  "version": "0.1.8",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.8/Bodenansprache_0.1.8_Portable_Ordner.zip",
-  "notes": "NIIMBOT-Fix fuer Pfade mit Sonderzeichen/Leerzeichen: Druck nutzt jetzt einen direkten Worker-Runner statt cli.mjs-Aufruf."
+  "version": "0.1.9",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.9/Bodenansprache_0.1.9_Portable_Ordner.zip",
+  "notes": "Updater-Fix fuer Tablet: Update-Runner startet jetzt intern ueber Electron/Node, schreibt sofort update.log und vermeidet den direkten PowerShell-Start aus der App."
 }
