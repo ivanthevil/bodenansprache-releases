@@ -1,5 +1,6 @@
 {
-  "version": "0.1.28",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.28/Bodenansprache_0.1.28_Portable_Ordner.zip",
-  "notes": "Testziel fuer den beschleunigten EXE-Updater aus 0.1.27. Die App beendet sich nicht mehr vorzeitig im Server und der externe Updater uebernimmt schneller."
+  "version": "0.1.30",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.30/Bodenansprache_0.1.30_Portable_Ordner.zip",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.30/bOden-Installer-0.1.30.exe",
+  "notes": "Testziel fuer den neuen Installer-Updatepfad aus 0.1.29. Download und Statusanzeige laufen jetzt sichtbar in der App, die eigentliche Installation uebernimmt der externe Installer."
 }
