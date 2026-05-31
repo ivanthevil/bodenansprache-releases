@@ -1,5 +1,5 @@
 {
-  "version": "0.1.15",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.15/Bodenansprache_0.1.15_Portable_Ordner.zip",
-  "notes": "Updater-Start weiter abgesichert: absoluter PowerShell-Pfad, laengeres Startfenster und bessere Fehlermeldung beim Start. Darkmode und Sonnenmodus bleiben enthalten."
+  "version": "0.1.16",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.16/Bodenansprache_0.1.16_Portable_Ordner.zip",
+  "notes": "Darkmode-Kontraste weiter verbessert: hellere Schriften, klarere Linien und besser lesbare Tiefen- und Einstellungsfelder. Updater-Fixes bleiben enthalten."
 }
