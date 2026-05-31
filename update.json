@@ -1,6 +1,6 @@
 {
-  "version": "0.1.33",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.33/Bodenansprache_0.1.33_Portable_Ordner.zip",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.33/bOden-Installer-0.1.33.exe",
-  "notes": "Mini-Testupdate mit neuem bOden-Icon in App, Fenster und Favicon."
+  "version": "0.1.34",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.34/Bodenansprache_0.1.34_Portable_Ordner.zip",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.34/bOden-Installer-0.1.34.exe",
+  "notes": "Hotfix: JSX-Fehler aus dem Icon-Testupdate behoben."
 }
