@@ -1,5 +1,5 @@
 {
-  "version": "0.1.12",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.12/Bodenansprache_0.1.12_Portable_Ordner.zip",
-  "notes": "Neuer Einstellungen-Button oben mit Export-Ordner, Update und Darkmode. Dazu Bohrung als Klick-Auswahl und robustere Update-Basis."
+  "version": "0.1.13",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.13/Bodenansprache_0.1.13_Portable_Ordner.zip",
+  "notes": "Updater repariert: externer PowerShell-Runner ersetzt jetzt die App-Dateien, ohne die laufende Bodenansprache.exe zu blockieren. Einstellungen und Darkmode bleiben enthalten."
 }
