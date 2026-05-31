@@ -1,5 +1,5 @@
 {
-  "version": "0.1.10",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.10/Bodenansprache_0.1.10_Portable_Ordner.zip",
-  "notes": "Header verbessert: bOden als App-Name, Verlauf fuer Projekt/Bauvorhaben/Auftraggeber/Ort/Bearbeiter und Bohrungs-Helfer mit Typauswahl."
+  "version": "0.1.11",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.11/Bodenansprache_0.1.11_Portable_Ordner.zip",
+  "notes": "Updater robuster gemacht: ZIP-Entpacken zuerst ueber tar.exe, PowerShell nur noch als Fallback. Dazu Kopfzeilen-Helfer und Bohrung als Klick-Modal."
 }
