@@ -1,5 +1,5 @@
 {
-  "version": "0.1.26",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.26/Bodenansprache_0.1.26_Portable_Ordner.zip",
-  "notes": "Testziel fuer den neuen separaten EXE-Updater aus 0.1.25. Die App startet den Update-Lauf jetzt ueber boden-updater.exe statt ueber Shell-Helfer."
+  "version": "0.1.28",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.28/Bodenansprache_0.1.28_Portable_Ordner.zip",
+  "notes": "Testziel fuer den beschleunigten EXE-Updater aus 0.1.27. Die App beendet sich nicht mehr vorzeitig im Server und der externe Updater uebernimmt schneller."
 }
