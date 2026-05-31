@@ -1,5 +1,5 @@
 {
-  "version": "0.1.20",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.20/Bodenansprache_0.1.20_Portable_Ordner.zip",
-  "notes": "Testziel fuer den neu gequoteten CMD-Updater aus 0.1.19. Dient nur dazu, den Update-Lauf auf dem Tablet sauber zu pruefen."
+  "version": "0.1.22",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.22/Bodenansprache_0.1.22_Portable_Ordner.zip",
+  "notes": "Testziel fuer den neuen Helfer-EXE-Updater aus 0.1.21. Dient dazu, den Update-Lauf auf dem Tablet ohne weitere Funktionsaenderung zu pruefen."
 }
