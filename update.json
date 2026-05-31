@@ -1,6 +1,6 @@
 {
-  "version": "0.1.36",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.36/Bodenansprache_0.1.36_Portable_Ordner.zip",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.36/bOden-Installer-0.1.36.exe",
-  "notes": "Hotfix: Installer-Fenster vergroessert und gequetschte Schrittanzeige repariert. Kaputte Sonderzeichen in der App bereinigt."
+  "version": "0.1.37",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.37/Bodenansprache_0.1.37_Portable_Ordner.zip",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.37/bOden-Installer-0.1.37.exe",
+  "notes": "Touch-Kopfzeile als Modal-Eingabe, GWM-Ausbau mit zweiter PDF-Seite und GeoDIN-Ausbau-Export, Bemerkungswahl erweitert."
 }
