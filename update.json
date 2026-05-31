@@ -1,7 +1,7 @@
 {
-  "version": "0.1.38",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.38/Bodenansprache_0.1.38_Portable_Ordner.zip",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.38/bOden-Installer-0.1.38.exe",
-  "notes": "GWM verbessert: Scroller/Vorauswahl oben, Ausbau von unten nach oben, Grafik mit Ueberstand/Kappe/Spitze/Filterkies/Tonabdichtung und Feld fuer tatsaechliche Einbautiefe."
+  "version": "0.1.39",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.39/Bodenansprache_0.1.39_Portable_Ordner.zip",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.39/bOden-Installer-0.1.39.exe",
+  "notes": "PDF-Export: Auswahl hinzugefuegt, ob der GWM-Ausbau als zweite Seite exportiert werden soll."
 }
 
