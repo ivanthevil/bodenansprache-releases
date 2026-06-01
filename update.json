@@ -1,6 +1,6 @@
 {
-    "notes":  "Startmenue-Klickbereich korrigiert und GWM-PDF-Spitze am Filterrohr sichtbar gemacht. Enthält außerdem die vorherigen großen Feldtest-Fixes fuer PDF, GWM, Projekte, GeoDIN und Etiketten.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.40/Bodenansprache_0.1.40_Portable_Ordner.zip",
-    "version":  "0.1.40",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.40/bOden-Installer-0.1.40.exe"
+    "notes":  "GeoDIN-MDB-Reparatur: Access-Spaltentypen werden jetzt beim Export erkannt, damit die GWM/ASB-Ausbaudaten nicht mehr als falscher Datentyp geschrieben werden.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.41/Bodenansprache_0.1.41_Portable_Ordner.zip",
+    "version":  "0.1.41",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.41/bOden-Installer-0.1.41.exe"
 }
