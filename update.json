@@ -1,6 +1,6 @@
 {
-    "notes": "Feldtest-Update: App startet vollstaendig offline ohne CDN. Projekte speichern jetzt mehrere RKS in einer .bd-Datei. Neue-RKS-Funktion, Schichtloeschen mit Bestaetigung, Feld A leeren, Proben bearbeiten und NIIMBOT-Tempdateien werden nach dem Druck geloescht.",
-    "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.43/Bodenansprache_0.1.43_Portable_Ordner.zip",
-    "version": "0.1.43",
-    "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.43/bOden-Installer-0.1.43.exe"
+    "notes": "Schrift-/Zeichensatz-Fix: sichtbare Artefakte in Umlauten und Button-Texten der App-Oberflaeche korrigiert.",
+    "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.44/Bodenansprache_0.1.44_Portable_Ordner.zip",
+    "version": "0.1.44",
+    "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.44/bOden-Installer-0.1.44.exe"
 }
