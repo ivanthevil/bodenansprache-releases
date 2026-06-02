@@ -1,6 +1,6 @@
 {
-    "notes": "Schrift-/Zeichensatz-Fix: sichtbare Artefakte in Umlauten und Button-Texten der App-Oberflaeche korrigiert.",
-    "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.44/Bodenansprache_0.1.44_Portable_Ordner.zip",
-    "version": "0.1.44",
-    "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.44/bOden-Installer-0.1.44.exe"
+    "notes": "Schriftbild, Projektstruktur und Exportpfade verbessert: Windows-Schrift wieder kompakter, Startmenue ohne Fragezeichen, Projekte nach Projektnummer und Bauvorhaben gruppiert, Export nun in Projektnummer/Bauvorhaben-Unterordnern.",
+    "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.45/Bodenansprache_0.1.45_Portable_Ordner.zip",
+    "version": "0.1.45",
+    "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.45/bOden-Installer-0.1.45.exe"
 }
