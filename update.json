@@ -1,6 +1,6 @@
 {
-    "notes":  "Rammsondierung überarbeitet: breitere Tabelle, Diagramm nach DIN-4094-Logik, Zusatzzeichen in derselben Tabellenzeile, Größer-Zeichen und qualitative Kurzauswertung.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.48/Bodenansprache_0.1.48_Portable_Ordner.zip",
-    "version":  "0.1.48",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.48/bOden-Installer-0.1.48.exe"
+    "notes":  "Rammsondierung optimiert: Tabelle direkt neben Schlagzahl-Scroller, aktuelle Zeile bleibt mittig, horizontales Balkendiagramm, Tabellen-Leeren mit doppelter Bestätigung und RKS-Bezug in der Auswertung.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.49/Bodenansprache_0.1.49_Portable_Ordner.zip",
+    "version":  "0.1.49",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.49/bOden-Installer-0.1.49.exe"
 }
