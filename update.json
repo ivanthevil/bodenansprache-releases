@@ -1,6 +1,6 @@
 {
-    "notes": "Schriftbild, Projektstruktur und Exportpfade verbessert: Windows-Schrift wieder kompakter, Startmenue ohne Fragezeichen, Projekte nach Projektnummer und Bauvorhaben gruppiert, Export nun in Projektnummer/Bauvorhaben-Unterordnern.",
-    "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.45/Bodenansprache_0.1.45_Portable_Ordner.zip",
-    "version": "0.1.45",
-    "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.45/bOden-Installer-0.1.45.exe"
+    "notes":  "Projektansicht mit richtigen Umlauten, Ort-Hinweis pro Bauvorhaben, automatisches Speichern bei Neue RKS mit Überschreibschutz sowie angepasstes Etiketten-Menü und verbesserte Probentiefe.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.46/Bodenansprache_0.1.46_Portable_Ordner.zip",
+    "version":  "0.1.46",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.46/bOden-Installer-0.1.46.exe"
 }
