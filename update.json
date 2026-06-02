@@ -1,6 +1,6 @@
 {
-    "notes": "GeoDIN-MDB-Reparatur: Access-Verbindung wird jetzt vollstaendig geschlossen und das finale MDB-Verschieben wartet bei kurz gesperrten Dateien automatisch.",
-    "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.42/Bodenansprache_0.1.42_Portable_Ordner.zip",
-    "version": "0.1.42",
-    "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.42/bOden-Installer-0.1.42.exe"
+    "notes": "Feldtest-Update: App startet vollstaendig offline ohne CDN. Projekte speichern jetzt mehrere RKS in einer .bd-Datei. Neue-RKS-Funktion, Schichtloeschen mit Bestaetigung, Feld A leeren, Proben bearbeiten und NIIMBOT-Tempdateien werden nach dem Druck geloescht.",
+    "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.43/Bodenansprache_0.1.43_Portable_Ordner.zip",
+    "version": "0.1.43",
+    "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.43/bOden-Installer-0.1.43.exe"
 }
