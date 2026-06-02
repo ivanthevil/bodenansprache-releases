@@ -1,6 +1,6 @@
 {
-    "notes":  "Projektansicht mit richtigen Umlauten, Ort-Hinweis pro Bauvorhaben, automatisches Speichern bei Neue RKS mit Überschreibschutz sowie angepasstes Etiketten-Menü und verbesserte Probentiefe.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.46/Bodenansprache_0.1.46_Portable_Ordner.zip",
-    "version":  "0.1.46",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.46/bOden-Installer-0.1.46.exe"
+    "notes":  "Speichern für bestehende Bearbeitung, sichere In-App-Löschdialoge, Exportauswahl für GWM/Rammsondierung, Vollbildmodus und erste Rammsondierungs-Funktion mit Tabelle und Diagramm.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.47/Bodenansprache_0.1.47_Portable_Ordner.zip",
+    "version":  "0.1.47",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.47/bOden-Installer-0.1.47.exe"
 }
