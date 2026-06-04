@@ -1,6 +1,6 @@
 {
-    "notes":  "Rammsondierung nachgebessert: Tabellenstart ohne Leerraum, keine fliegende Fokuszeile mehr, Vollmeter-Markierungen im Diagramm und ruhigeres Zentrierverhalten.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.52/Bodenansprache_0.1.52_Portable_Ordner.zip",
-    "version":  "0.1.52",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.52/bOden-Installer-0.1.52.exe"
+    "notes":  "Projektansicht aufgeraeumt: In Bauvorhaben werden jetzt nur noch ausgefuellte RKS-, GWM- und Ramm-Eintraege angezeigt. Leere Spalten verschwinden automatisch.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.53/Bodenansprache_0.1.53_Portable_Ordner.zip",
+    "version":  "0.1.53",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.53/bOden-Installer-0.1.53.exe"
 }
