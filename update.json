@@ -1,6 +1,6 @@
 {
-    "notes":  "Korrektur-Release: Update-Installer als vollstaendige Einzeldatei, damit Updates wieder sauber starten. Startmenue ausserdem auf festes Schwarz-Weiss-Layout im Sonnenmodus-Stil umgestellt und um LABOR erweitert.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.51/Bodenansprache_0.1.51_Portable_Ordner.zip",
-    "version":  "0.1.51",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.51/bOden-Installer-0.1.51.exe"
+    "notes":  "Rammsondierung nachgebessert: Tabellenstart ohne Leerraum, keine fliegende Fokuszeile mehr, Vollmeter-Markierungen im Diagramm und ruhigeres Zentrierverhalten.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.52/Bodenansprache_0.1.52_Portable_Ordner.zip",
+    "version":  "0.1.52",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.52/bOden-Installer-0.1.52.exe"
 }
