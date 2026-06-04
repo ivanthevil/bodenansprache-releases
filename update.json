@@ -1,6 +1,6 @@
 {
-    "notes":  "Projektansicht überarbeitet: saubere Struktur nach Projektnummer und Bauvorhaben, getrennte Einträge für RKS, GWM und Rammsondierung sowie Einzel- und Bauvorhaben-Exporte direkt aus der Projektliste.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.50/Bodenansprache_0.1.50_Portable_Ordner.zip",
-    "version":  "0.1.50",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.50/bOden-Installer-0.1.50.exe"
+    "notes":  "Korrektur-Release: Update-Installer als vollstaendige Einzeldatei, damit Updates wieder sauber starten. Startmenue ausserdem auf festes Schwarz-Weiss-Layout im Sonnenmodus-Stil umgestellt und um LABOR erweitert.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.51/Bodenansprache_0.1.51_Portable_Ordner.zip",
+    "version":  "0.1.51",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.51/bOden-Installer-0.1.51.exe"
 }
