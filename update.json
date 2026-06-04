@@ -1,6 +1,6 @@
 {
-    "notes":  "Rammsondierung optimiert: Tabelle direkt neben Schlagzahl-Scroller, aktuelle Zeile bleibt mittig, horizontales Balkendiagramm, Tabellen-Leeren mit doppelter Bestätigung und RKS-Bezug in der Auswertung.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.49/Bodenansprache_0.1.49_Portable_Ordner.zip",
-    "version":  "0.1.49",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.49/bOden-Installer-0.1.49.exe"
+    "notes":  "Projektansicht überarbeitet: saubere Struktur nach Projektnummer und Bauvorhaben, getrennte Einträge für RKS, GWM und Rammsondierung sowie Einzel- und Bauvorhaben-Exporte direkt aus der Projektliste.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.50/Bodenansprache_0.1.50_Portable_Ordner.zip",
+    "version":  "0.1.50",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.50/bOden-Installer-0.1.50.exe"
 }
