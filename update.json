@@ -1,6 +1,6 @@
 {
-    "notes":  "Projektansicht aufgeraeumt: In Bauvorhaben werden jetzt nur noch ausgefuellte RKS-, GWM- und Ramm-Eintraege angezeigt. Leere Spalten verschwinden automatisch.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.53/Bodenansprache_0.1.53_Portable_Ordner.zip",
-    "version":  "0.1.53",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.53/bOden-Installer-0.1.53.exe"
+    "notes":  "Einstellungen erweitert: OneDrive-Ordner kann jetzt direkt in der App gesetzt und gespeichert werden. Gedacht als zentraler Zielordner fuer Projekte, GeoDIN-Datenbanken und Exporte.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.54/Bodenansprache_0.1.54_Portable_Ordner.zip",
+    "version":  "0.1.54",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.54/bOden-Installer-0.1.54.exe"
 }
