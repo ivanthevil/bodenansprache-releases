@@ -1,6 +1,6 @@
 {
-    "notes":  "Einstellungen erweitert: OneDrive-Ordner kann jetzt direkt in der App gesetzt und gespeichert werden. Gedacht als zentraler Zielordner fuer Projekte, GeoDIN-Datenbanken und Exporte.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.54/Bodenansprache_0.1.54_Portable_Ordner.zip",
-    "version":  "0.1.54",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.54/bOden-Installer-0.1.54.exe"
+    "notes":  "GeoDIN erweitert: Rammsondierungen werden jetzt in GEODIN_LOC_SONDREG und GEODIN_LOC_SONDDATA geschrieben. Das gilt fuer den normalen GeoDIN-MDB-Export und fuer GeoDIN aktualisieren im OneDrive-Ordner.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.55/Bodenansprache_0.1.55_Portable_Ordner.zip",
+    "version":  "0.1.55",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.55/bOden-Installer-0.1.55.exe"
 }
