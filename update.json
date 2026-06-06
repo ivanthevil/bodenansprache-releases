@@ -1,6 +1,6 @@
 {
-    "notes":  "Kontext-Header sind jetzt sauber getrennt: Schichtenverzeichnis, GWM AUSBAU und Rammsondierung zeigen eigene Titel auch im PDF. Die Rammsondierungs-PDF-Segmente laufen jetzt in 10-m-Abschnitten pro Seite und behalten den einheitlichen Exportkopf.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.57/Bodenansprache_0.1.57_Portable_Ordner.zip",
-    "version":  "0.1.57",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.57/bOden-Installer-0.1.57.exe"
+    "notes":  "Neu unter FELD: STAT LPV fuer statische Plattendruckversuche nach DIN 18134 mit Laststufen-Scroller, EV1/EV2-Auswertung und PDF-Export. Fotos koennen jetzt punktbezogen mit Logo, GPS/Datum/Kompass-Overlay gespeichert und optional als Fotodokumentation in PDF-Exporte aufgenommen werden.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.58/Bodenansprache_0.1.58_Portable_Ordner.zip",
+    "version":  "0.1.58",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.58/bOden-Installer-0.1.58.exe"
 }
