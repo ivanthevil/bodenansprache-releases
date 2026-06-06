@@ -1,6 +1,6 @@
 {
-    "notes":  "Rammsondierung-PDF kompakter: tiefe Rammen werden automatisch in lesbare 10-m-Abschnitte geteilt, Diagramme enden am tatsaechlichen Abschnitt und die Kopfzeile nutzt Logo/Datum wie das Schichtenverzeichnis. Kopfzeile und Export verwenden jetzt Punkt statt Bohrung.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.56/Bodenansprache_0.1.56_Portable_Ordner.zip",
-    "version":  "0.1.56",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.56/bOden-Installer-0.1.56.exe"
+    "notes":  "Kontext-Header sind jetzt sauber getrennt: Schichtenverzeichnis, GWM AUSBAU und Rammsondierung zeigen eigene Titel auch im PDF. Die Rammsondierungs-PDF-Segmente laufen jetzt in 10-m-Abschnitten pro Seite und behalten den einheitlichen Exportkopf.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.57/Bodenansprache_0.1.57_Portable_Ordner.zip",
+    "version":  "0.1.57",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.57/bOden-Installer-0.1.57.exe"
 }
