@@ -1,6 +1,6 @@
 {
-    "notes":  "STAT LPV verbessert: groessere Messwerttabelle, bearbeitbare Laststufen, kompakte EV-Auswertung ohne Kriterium und grosser Spannungs-Setzungs-Graph als zweite PDF-Seite. Fotofunktion erweitert: Kameraaufnahme am Tablet, Punktauswahl fuer Punktfotos und grosse Foto-Vorschau per Klick.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.59/Bodenansprache_0.1.59_Portable_Ordner.zip",
-    "version":  "0.1.59",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.59/bOden-Installer-0.1.59.exe"
+    "notes":  "Foto-Overlay verbessert: Mini-Map entfernt, TABERG-Logo kleiner und nicht mehr am Rand abgeschnitten, Infotext unten rechts deutlich kleiner. Foto-Funktion prueft Standort und Kompass aktiv und bietet einen Button zu den Windows-Ortungseinstellungen.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.60/Bodenansprache_0.1.60_Portable_Ordner.zip",
+    "version":  "0.1.60",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.60/bOden-Installer-0.1.60.exe"
 }
