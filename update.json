@@ -1,7 +1,6 @@
 {
-    "notes":  "LPV-Laststufen frei erweiterbar und loeschbar, LPV-PDF kompakter auf einer Seite mit Diagramm, LPV-Export in eigenem Ordner, Projektliste ohne Phantom-RKS, RKS-Loeschen entfernt nur RKS-Daten, Fotos mit echtem TABERG-Logo und dauerhafter Dateiablage im Exportordner.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.61/Bodenansprache_0.1.61_Portable_Ordner.zip",
-    "version":  "0.1.61",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.61/bOden-Installer-0.1.61.exe"
+  "version": "0.1.62",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.62/Bodenansprache_0.1.62_Portable_Ordner.zip",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.62/bOden-Installer-0.1.62.exe",
+  "notes": "LPV-Tabelle nicht mehr langgezogen, 0-Vorlast entfernt, neue LPV startet leer, Zeichensatz-Artefakte bereinigt, LPV-PDF stabiler und Fotoaufl?sung h?her."
 }
-
