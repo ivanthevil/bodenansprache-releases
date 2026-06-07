@@ -1,6 +1,6 @@
 {
-  "version": "0.1.62",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.62/Bodenansprache_0.1.62_Portable_Ordner.zip",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.62/bOden-Installer-0.1.62.exe",
-  "notes": "LPV-Tabelle nicht mehr langgezogen, 0-Vorlast entfernt, neue LPV startet leer, Zeichensatz-Artefakte bereinigt, LPV-PDF stabiler und Fotoaufl?sung h?her."
+  "version": "0.1.63",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.63/Bodenansprache_0.1.63_Portable_Ordner.zip",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.63/bOden-Installer-0.1.63.exe",
+  "notes": "Auffuellung: Bohrkern Beton und Bohrkern Asphalt ergaenzt. STAT LPV Tabelle nutzt die verfuegbare Breite besser ohne Ueberlauf."
 }
