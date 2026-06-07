@@ -1,6 +1,6 @@
 {
-    "notes":  "Neu unter FELD: STAT LPV fuer statische Plattendruckversuche nach DIN 18134 mit Laststufen-Scroller, EV1/EV2-Auswertung und PDF-Export. Fotos koennen jetzt punktbezogen mit Logo, GPS/Datum/Kompass-Overlay gespeichert und optional als Fotodokumentation in PDF-Exporte aufgenommen werden.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.58/Bodenansprache_0.1.58_Portable_Ordner.zip",
-    "version":  "0.1.58",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.58/bOden-Installer-0.1.58.exe"
+    "notes":  "STAT LPV verbessert: groessere Messwerttabelle, bearbeitbare Laststufen, kompakte EV-Auswertung ohne Kriterium und grosser Spannungs-Setzungs-Graph als zweite PDF-Seite. Fotofunktion erweitert: Kameraaufnahme am Tablet, Punktauswahl fuer Punktfotos und grosse Foto-Vorschau per Klick.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.59/Bodenansprache_0.1.59_Portable_Ordner.zip",
+    "version":  "0.1.59",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.59/bOden-Installer-0.1.59.exe"
 }
