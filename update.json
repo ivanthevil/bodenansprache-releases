@@ -1,6 +1,6 @@
 {
-  "version": "0.1.63",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.63/Bodenansprache_0.1.63_Portable_Ordner.zip",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.63/bOden-Installer-0.1.63.exe",
-  "notes": "Auffuellung: Bohrkern Beton und Bohrkern Asphalt ergaenzt. STAT LPV Tabelle nutzt die verfuegbare Breite besser ohne Ueberlauf."
+    "notes":  "Datum wird offline aus der Systemzeit im Format TT.MM.JJJJ gesetzt, Punkt-Auswahl enthaelt KRB, Tiefenscroller unterstuetzen 1-cm-Schritte und der ET-Dialog bleibt besser bedienbar. NIIMBOT-Direktdruck wurde auf Batchdruck ohne Erfolgs-Popup umgestellt.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.64/Bodenansprache_0.1.64_Portable_Ordner.zip",
+    "version":  "0.1.64",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.64/bOden-Installer-0.1.64.exe"
 }
