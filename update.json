@@ -1,6 +1,6 @@
 {
-    "notes":  "Erste Schicht kann jetzt eine Starttiefe ab ... m bekommen. Etiketten setzen ET nur noch an die letzte Probe der ET-Schicht.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.65/Bodenansprache_0.1.65_Portable_Ordner.zip",
-    "version":  "0.1.65",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.65/bOden-Installer-0.1.65.exe"
+    "notes":  "Fokus fuer Eingabefelder auf Windows-Tablet stabilisiert. Etiketten koennen pro Probe ausgewaehlt werden. NIIMBOT-Druck merkt sich bei Rollenabbruch die restlichen Etiketten zum Fortsetzen.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.66/Bodenansprache_0.1.66_Portable_Ordner.zip",
+    "version":  "0.1.66",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.66/bOden-Installer-0.1.66.exe"
 }
