@@ -1,6 +1,6 @@
 {
-    "notes":  "Datum wird offline aus der Systemzeit im Format TT.MM.JJJJ gesetzt, Punkt-Auswahl enthaelt KRB, Tiefenscroller unterstuetzen 1-cm-Schritte und der ET-Dialog bleibt besser bedienbar. NIIMBOT-Direktdruck wurde auf Batchdruck ohne Erfolgs-Popup umgestellt.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.64/Bodenansprache_0.1.64_Portable_Ordner.zip",
-    "version":  "0.1.64",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.64/bOden-Installer-0.1.64.exe"
+    "notes":  "Erste Schicht kann jetzt eine Starttiefe ab ... m bekommen. Etiketten setzen ET nur noch an die letzte Probe der ET-Schicht.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.65/Bodenansprache_0.1.65_Portable_Ordner.zip",
+    "version":  "0.1.65",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.65/bOden-Installer-0.1.65.exe"
 }
