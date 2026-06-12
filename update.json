@@ -1,6 +1,6 @@
 {
-    "notes":  "Fokus fuer Eingabefelder auf Windows-Tablet stabilisiert. Etiketten koennen pro Probe ausgewaehlt werden. NIIMBOT-Druck merkt sich bei Rollenabbruch die restlichen Etiketten zum Fortsetzen.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.66/Bodenansprache_0.1.66_Portable_Ordner.zip",
-    "version":  "0.1.66",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.66/bOden-Installer-0.1.66.exe"
+    "notes":  "PDF-Export repariert: Server nutzt wieder die korrekte Schichtenliste beim Erzeugen des Schichtenverzeichnisses.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.67/Bodenansprache_0.1.67_Portable_Ordner.zip",
+    "version":  "0.1.67",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.67/bOden-Installer-0.1.67.exe"
 }
