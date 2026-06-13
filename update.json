@@ -1,6 +1,6 @@
 {
-    "notes":  "Darkmode verbessert: Texte werden konsequent weiss auf schwarzem Hintergrund dargestellt, inklusive hart codierter grauer/schwarzer Beschriftungen.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.69/Bodenansprache_0.1.69_Portable_Ordner.zip",
-    "version":  "0.1.69",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.69/bOden-Installer-0.1.69.exe"
+    "notes":  "Darkmode grundlegend ueberarbeitet: auch Modale, Einstellungen und Dialoge bleiben schwarz/weiss lesbar. PDF-Tiefenanzeige zeigt Start- und Endtiefen mit zwei Nachkommastellen.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.70/Bodenansprache_0.1.70_Portable_Ordner.zip",
+    "version":  "0.1.70",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.70/bOden-Installer-0.1.70.exe"
 }
