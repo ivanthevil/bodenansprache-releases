@@ -1,6 +1,6 @@
 {
-    "notes":  "PDF-Export repariert: Server nutzt wieder die korrekte Schichtenliste beim Erzeugen des Schichtenverzeichnisses.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.67/Bodenansprache_0.1.67_Portable_Ordner.zip",
-    "version":  "0.1.67",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.67/bOden-Installer-0.1.67.exe"
+    "notes":  "PDF-Textumbruch verbessert: kleine Freitextfelder werden einzeilig sauber eingepasst, Bemerkungen und Proben bleiben kontrolliert mehrzeilig.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.68/Bodenansprache_0.1.68_Portable_Ordner.zip",
+    "version":  "0.1.68",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.68/bOden-Installer-0.1.68.exe"
 }
