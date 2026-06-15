@@ -1,6 +1,6 @@
 {
-    "notes":  "Darkmode grundlegend ueberarbeitet: auch Modale, Einstellungen und Dialoge bleiben schwarz/weiss lesbar. PDF-Tiefenanzeige zeigt Start- und Endtiefen mit zwei Nachkommastellen.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.70/Bodenansprache_0.1.70_Portable_Ordner.zip",
-    "version":  "0.1.70",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.70/bOden-Installer-0.1.70.exe"
+    "notes":  "Datum fuer neue Feld-Datensaetze wird offline direkt vom Windows-Systemdatum gesetzt. Rammsondierung und statische LPV haben jetzt einen Umschalter zwischen Scroller und Numpad; das Numpad ist voll sichtbar.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.71/Bodenansprache_0.1.71_Portable_Ordner.zip",
+    "version":  "0.1.71",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.71/bOden-Installer-0.1.71.exe"
 }
