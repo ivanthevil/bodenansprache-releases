@@ -1,6 +1,6 @@
 {
-    "notes":  "Rückbau: Probenahmeprotokoll nach Word-Vorlage mit editierbarer Kopfzeile, Probenkennung P/PSFMP/MP, zwei Originalfotos je Probe und überarbeitetem A4-PDF-Export.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.73/Bodenansprache_0.1.73_Portable_Ordner.zip",
-    "version":  "0.1.73",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.73/bOden-Installer-0.1.73.exe"
+    "notes":  "Rückbau: Beschriftete Kopfzeile im Protokoll und PDF, originales Rückbau-Logo, eigener Rückbau-Bereich mit + NEU sowie Feld-leeren-Aktionen.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.74/Bodenansprache_0.1.74_Portable_Ordner.zip",
+    "version":  "0.1.74",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.74/bOden-Installer-0.1.74.exe"
 }
