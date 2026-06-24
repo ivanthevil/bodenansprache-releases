@@ -1,6 +1,6 @@
 {
-    "notes":  "Rückbau: Beschriftete Kopfzeile im Protokoll und PDF, originales Rückbau-Logo, eigener Rückbau-Bereich mit + NEU sowie Feld-leeren-Aktionen.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.74/Bodenansprache_0.1.74_Portable_Ordner.zip",
-    "version":  "0.1.74",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.74/bOden-Installer-0.1.74.exe"
+    "notes":  "Projektverwaltung: Erstellungsdaten und Volltextsuche. Schichtenverzeichnis: Doppelproben 1a/1b mit eigener Tiefe und vier Etiketten.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.75/Bodenansprache_0.1.75_Portable_Ordner.zip",
+    "version":  "0.1.75",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.75/bOden-Installer-0.1.75.exe"
 }
