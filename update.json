@@ -1,6 +1,6 @@
 {
-    "notes":  "Verbesserte Digitalisierung mit lokalem deutschem Handschriftmodell. RKS-Felder werden einzeln gelesen und mit Bodenkuerzeln abgeglichen. Probenart und fortlaufende Doppelstriche werden uebernommen; Probennummern und Zwischentiefen werden den Schichten zugeordnet.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.79/Bodenansprache_0.1.79_Portable_Ordner.zip",
-    "version":  "0.1.79",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.79/bOden-Installer-0.1.79.exe"
+    "notes":  "Digitalisierung verbessert: Kalk, Datum, Probenintervalle und handschriftliche Fortsetzungen werden erkannt. Korrekturen werden lokal gelernt und als Trainingsdaten gespeichert. Der GeoDIN-Gesamtexport fuer Bauvorhaben wurde stabilisiert.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.80/Bodenansprache_0.1.80_Portable_Ordner.zip",
+    "version":  "0.1.80",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.80/bOden-Installer-0.1.80.exe"
 }
