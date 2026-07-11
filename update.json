@@ -1,6 +1,6 @@
 {
-    "notes":  "GeoDIN Fusion mit MDB-Auswahl und Vorprüfung. Leere Rückbau-Platzhalter werden nicht mehr als Projekteintrag angezeigt. Ramm-Numpad wird nach WEITER auf 0 zurückgesetzt. Stabilere Touch-Tastatur, bOden-Meldungsdialoge und Exportordner-Auswahl über Windows.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.77/Bodenansprache_0.1.77_Portable_Ordner.zip",
-    "version":  "0.1.77",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.77/bOden-Installer-0.1.77.exe"
+    "notes":  "Neue Digitalisierung: Fotos und PDF lokal per Offline-OCR erfassen, Dokumenttyp erkennen, RKS- oder Ramm-Entwurf kontrollieren und in Projekte übernehmen. Getrennte Punktnamen für RKS, Ramme, GWM, LPV und Versickerung. Korrigierter GeoDIN-Tiefenexport bei abweichender Ramm-Starttiefe und stabilere RKS-Zuordnung. Vollständiger lokaler WISSEN-Dateiindex.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.78/Bodenansprache_0.1.78_Portable_Ordner.zip",
+    "version":  "0.1.78",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.78/bOden-Installer-0.1.78.exe"
 }
