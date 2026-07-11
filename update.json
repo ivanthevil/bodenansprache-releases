@@ -1,6 +1,6 @@
 {
-    "notes":  "Neue Digitalisierung: Fotos und PDF lokal per Offline-OCR erfassen, Dokumenttyp erkennen, RKS- oder Ramm-Entwurf kontrollieren und in Projekte übernehmen. Getrennte Punktnamen für RKS, Ramme, GWM, LPV und Versickerung. Korrigierter GeoDIN-Tiefenexport bei abweichender Ramm-Starttiefe und stabilere RKS-Zuordnung. Vollständiger lokaler WISSEN-Dateiindex.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.78/Bodenansprache_0.1.78_Portable_Ordner.zip",
-    "version":  "0.1.78",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.78/bOden-Installer-0.1.78.exe"
+    "notes":  "Verbesserte Digitalisierung mit lokalem deutschem Handschriftmodell. RKS-Felder werden einzeln gelesen und mit Bodenkuerzeln abgeglichen. Probenart und fortlaufende Doppelstriche werden uebernommen; Probennummern und Zwischentiefen werden den Schichten zugeordnet.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.79/Bodenansprache_0.1.79_Portable_Ordner.zip",
+    "version":  "0.1.79",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.79/bOden-Installer-0.1.79.exe"
 }
