@@ -1,6 +1,10 @@
 {
-    "notes":  "OCR-Proben werden mit eigenen Von-bis-Intervallen übernommen und bei doppeltem Gesamtschichtbereich automatisch unterteilt. Mehrseitige Fotos und PDFs werden gemeinsam analysiert. RKS, Ramme, GWM, LPV und Versickerungsversuche werden unterschieden und in das passende bOden-Modul übertragen. DIN-Werte und handschriftliche Fortsetzungen wurden verbessert.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.83/Bodenansprache_0.1.83_Portable_Ordner.zip",
-    "version":  "0.1.83",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.83/bOden-Installer-0.1.83.exe"
+  "notes": "Die Bodenansprache enthält jetzt die Farben hellbraun und bunt. Dieses Update wird erstmals als kleines Patch-Paket geladen und ersetzt nur geänderte App-Dateien.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.84/bOden_0.1.84_Patch.zip",
+  "version": "0.1.84",
+  "updateType": "patch",
+  "baseVersion": "0.1.83",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.84/bOden-Patch-Installer-0.1.84.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.84/Bodenansprache_0.1.84_Portable_Ordner.zip",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.84/bOden-Installer-0.1.84.exe"
 }
