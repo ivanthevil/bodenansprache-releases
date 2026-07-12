@@ -1,6 +1,6 @@
 {
-    "notes":  "GeoDIN Fusion nutzt in der Windows-App einen nativen Dateidialog. Die Digitalisierung erkennt RKS, Rammsondierungen und freie Notizen getrennt, bietet direkte Kameraaufnahme und lernt korrigierte Dokumenttypen lokal.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.81/Bodenansprache_0.1.81_Portable_Ordner.zip",
-    "version":  "0.1.81",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.81/bOden-Installer-0.1.81.exe"
+    "notes":  "Online-OCR mit Gemini 3.5 Flash und automatischem Offline-Fallback. Fortlaufende Probenarten werden korrekt übernommen, Probentiefen sind zuverlässig editierbar und die Digitalisierungsansicht ist responsiv. API-Einstellungen sind per Masterpasswort geschützt; der Schlüssel wird mit Windows-DPAPI verschlüsselt.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.82/Bodenansprache_0.1.82_Portable_Ordner.zip",
+    "version":  "0.1.82",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.82/bOden-Installer-0.1.82.exe"
 }
