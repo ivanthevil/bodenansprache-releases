@@ -1,6 +1,6 @@
 {
-    "notes":  "Digitalisierung verbessert: Kalk, Datum, Probenintervalle und handschriftliche Fortsetzungen werden erkannt. Korrekturen werden lokal gelernt und als Trainingsdaten gespeichert. Der GeoDIN-Gesamtexport fuer Bauvorhaben wurde stabilisiert.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.80/Bodenansprache_0.1.80_Portable_Ordner.zip",
-    "version":  "0.1.80",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.80/bOden-Installer-0.1.80.exe"
+    "notes":  "GeoDIN Fusion nutzt in der Windows-App einen nativen Dateidialog. Die Digitalisierung erkennt RKS, Rammsondierungen und freie Notizen getrennt, bietet direkte Kameraaufnahme und lernt korrigierte Dokumenttypen lokal.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.81/Bodenansprache_0.1.81_Portable_Ordner.zip",
+    "version":  "0.1.81",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.81/bOden-Installer-0.1.81.exe"
 }
