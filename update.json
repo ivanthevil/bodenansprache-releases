@@ -1,6 +1,6 @@
 {
-    "notes":  "Online-OCR mit Gemini 3.5 Flash und automatischem Offline-Fallback. Fortlaufende Probenarten werden korrekt übernommen, Probentiefen sind zuverlässig editierbar und die Digitalisierungsansicht ist responsiv. API-Einstellungen sind per Masterpasswort geschützt; der Schlüssel wird mit Windows-DPAPI verschlüsselt.",
-    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.82/Bodenansprache_0.1.82_Portable_Ordner.zip",
-    "version":  "0.1.82",
-    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.82/bOden-Installer-0.1.82.exe"
+    "notes":  "OCR-Proben werden mit eigenen Von-bis-Intervallen übernommen und bei doppeltem Gesamtschichtbereich automatisch unterteilt. Mehrseitige Fotos und PDFs werden gemeinsam analysiert. RKS, Ramme, GWM, LPV und Versickerungsversuche werden unterschieden und in das passende bOden-Modul übertragen. DIN-Werte und handschriftliche Fortsetzungen wurden verbessert.",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.83/Bodenansprache_0.1.83_Portable_Ordner.zip",
+    "version":  "0.1.83",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.83/bOden-Installer-0.1.83.exe"
 }
