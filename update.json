@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Mehrpunktexport grundlegend korrigiert: getrennte Punkt-IDs, gemeinsame Projekt-GUID, vollständige RKS-, Proben-, Ramm- und GWM-Fachdaten, GeoDIN-kompatibles Tabellenschema, automatische Integritätsprüfung und sichtbarer Exportfortschritt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.86/bOden_0.1.86_Patch.zip",
-  "version": "0.1.86",
+  "notes": "GeoDIN-Abschlusspruefung unter Windows korrigiert: vollstaendig erzeugte Bauvorhaben-Datenbanken werden nicht mehr wegen eines fehlerhaften PowerShell-Status verworfen. Technische Fehlermeldungen sind jetzt kurz und verstaendlich.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.87/bOden_0.1.87_Patch.zip",
+  "version": "0.1.87",
   "updateType": "patch",
-  "baseVersion": "0.1.85",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.86/bOden-Patch-Installer-0.1.86.exe",
+  "baseVersion": "0.1.86",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.87/bOden-Patch-Installer-0.1.87.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
