@@ -1,10 +1,10 @@
 {
-  "notes": "Die Bodenansprache enthält jetzt die Farben hellbraun und bunt. Dieses Update wird erstmals als kleines Patch-Paket geladen und ersetzt nur geänderte App-Dateien.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.84/bOden_0.1.84_Patch.zip",
-  "version": "0.1.84",
+  "notes": "Neue Laborfunktion: Kalkgehaltsbestimmung nach Scheibler. Der Bauvorhaben-GeoDIN-Export schreibt jetzt alle ausgewählten Punkte gemeinsam in genau eine MDB-Datei.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden_0.1.85_Patch.zip",
+  "version": "0.1.85",
   "updateType": "patch",
-  "baseVersion": "0.1.83",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.84/bOden-Patch-Installer-0.1.84.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.84/Bodenansprache_0.1.84_Portable_Ordner.zip",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.84/bOden-Installer-0.1.84.exe"
+  "baseVersion": "0.1.84",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Patch-Installer-0.1.85.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
