@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Shuttle-Schema repariert: b0den veraendert keine originalen GeoDIN-Tabellen mehr. Binaerfelder, Feldlaengen und Objektregister bleiben exakt kompatibel, damit RKS- und Rammobjekte in GeoDIN geladen werden koennen.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.88/bOden_0.1.88_Patch.zip",
-  "version": "0.1.88",
+  "notes": "GeoDIN-Export korrigiert: DPH-Datenfolgen verwenden jetzt die Struktur einer funktionierenden GeoDIN-Produktivdatenbank. RKS mit einer Starttiefe unterhalb GOK erhalten die erforderliche leere Anfangszeile. Vorhandene GeoDIN-Daten werden vor unvereinbaren Schemaaenderungen geschuetzt.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.89/bOden_0.1.89_Patch.zip",
+  "version": "0.1.89",
   "updateType": "patch",
-  "baseVersion": "0.1.87",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.88/bOden-Patch-Installer-0.1.88.exe",
+  "baseVersion": "0.1.88",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.89/bOden-Patch-Installer-0.1.89.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
