@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Signaturen fuer Auffuellungen erweitert: In Feld A kann eine eindeutige Signaturgrundlage ausgewaehlt werden. Bohrungen mit Starttiefe unter GOK behalten den ununtersuchten Vorlauf korrekt bei. Der GWM-Export verwendet jetzt die GeoDIN-Codes und Verknuepfungen fuer Filterrohr, Vollrohr, Schutzrohr, Filterkies und Tonsperre.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.91/bOden_0.1.91_Patch.zip",
-  "version": "0.1.91",
+  "notes": "Bekannte Bereiche vor dem eigentlichen Bohrbeginn koennen jetzt als vollstaendig bearbeitbare Vorlaufschicht angelegt werden. Auffuellungen benoetigen eine Grundbodenart oder GeoDIN-Signaturgrundlage; leere Beschreibungen und fehlende Signaturen werden damit verhindert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.92/bOden_0.1.92_Patch.zip",
+  "version": "0.1.92",
   "updateType": "patch",
-  "baseVersion": "0.1.90",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.91/bOden-Patch-Installer-0.1.91.exe",
+  "baseVersion": "0.1.91",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.92/bOden-Patch-Installer-0.1.92.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
