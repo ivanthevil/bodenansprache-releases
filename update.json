@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Export korrigiert: DPH-Datenfolgen verwenden jetzt die Struktur einer funktionierenden GeoDIN-Produktivdatenbank. RKS mit einer Starttiefe unterhalb GOK erhalten die erforderliche leere Anfangszeile. Vorhandene GeoDIN-Daten werden vor unvereinbaren Schemaaenderungen geschuetzt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.89/bOden_0.1.89_Patch.zip",
-  "version": "0.1.89",
+  "notes": "GeoDIN-Export grundlegend korrigiert: Neue Datenbanken basieren auf einer bereinigten GeoDIN-Produktivstruktur. Rammsondierungen werden als numerische N10-Datenfolge exportiert; ET, KRM, Hindernis und andere Statusangaben koennen die GeoDIN-Messreihe nicht mehr beschaedigen. Schema und Messwerte werden vor dem Schreiben validiert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.90/bOden_0.1.90_Patch.zip",
+  "version": "0.1.90",
   "updateType": "patch",
-  "baseVersion": "0.1.88",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.89/bOden-Patch-Installer-0.1.89.exe",
+  "baseVersion": "0.1.89",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.90/bOden-Patch-Installer-0.1.90.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
