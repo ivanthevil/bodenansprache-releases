@@ -1,10 +1,10 @@
 {
-  "notes": "Die Foto-Funktion im Startmenue ist jetzt eine eigenstaendige Galerie. Sie zeigt nur Projekte, Bauvorhaben und Punkte mit gespeicherten Fotos und oeffnet Bilder in einem schreibgeschuetzten Album-Viewer.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.93/bOden_0.1.93_Patch.zip",
-  "version": "0.1.93",
+  "notes": "Hierarchische Vor- und Zurueck-Navigation, Fotoalben mit echten Vorschaubildern und Unterstuetzung alter Fotos sowie manuelle Bauvorhaben-Fusion und zentrale Kopfzeilen-Bearbeitung.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.94/bOden_0.1.94_Patch.zip",
+  "version": "0.1.94",
   "updateType": "patch",
-  "baseVersion": "0.1.92",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.93/bOden-Patch-Installer-0.1.93.exe",
+  "baseVersion": "0.1.93",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.94/bOden-Patch-Installer-0.1.94.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
