@@ -1,10 +1,10 @@
 {
-  "notes": "Hierarchische Vor- und Zurueck-Navigation, Fotoalben mit echten Vorschaubildern und Unterstuetzung alter Fotos sowie manuelle Bauvorhaben-Fusion und zentrale Kopfzeilen-Bearbeitung.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.94/bOden_0.1.94_Patch.zip",
-  "version": "0.1.94",
+  "notes": "Kompakte Fotogalerie im Projektraster mit Vorschaubildern, Fotoart und Aufnahmedatum. Umgebungsfotos erfordern jetzt eine aussagekraeftige Beschreibung.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.95/bOden_0.1.95_Patch.zip",
+  "version": "0.1.95",
   "updateType": "patch",
-  "baseVersion": "0.1.93",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.94/bOden-Patch-Installer-0.1.94.exe",
+  "baseVersion": "0.1.94",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.95/bOden-Patch-Installer-0.1.95.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
