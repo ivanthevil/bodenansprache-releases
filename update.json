@@ -1,10 +1,10 @@
 {
-  "notes": "Bekannte Bereiche vor dem eigentlichen Bohrbeginn koennen jetzt als vollstaendig bearbeitbare Vorlaufschicht angelegt werden. Auffuellungen benoetigen eine Grundbodenart oder GeoDIN-Signaturgrundlage; leere Beschreibungen und fehlende Signaturen werden damit verhindert.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.92/bOden_0.1.92_Patch.zip",
-  "version": "0.1.92",
+  "notes": "Die Foto-Funktion im Startmenue ist jetzt eine eigenstaendige Galerie. Sie zeigt nur Projekte, Bauvorhaben und Punkte mit gespeicherten Fotos und oeffnet Bilder in einem schreibgeschuetzten Album-Viewer.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.93/bOden_0.1.93_Patch.zip",
+  "version": "0.1.93",
   "updateType": "patch",
-  "baseVersion": "0.1.91",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.92/bOden-Patch-Installer-0.1.92.exe",
+  "baseVersion": "0.1.92",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.93/bOden-Patch-Installer-0.1.93.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
