@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Fallbacklogik: Schreibvarianten und fachliche Zwischenstufen werden auf gueltige SEP3-Schluessel abgebildet. Unbekannte Bodenarten erhalten eine nutzbare Signatur; Originalangaben bleiben in den Bemerkungen erhalten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.96/bOden_0.1.96_Patch.zip",
-  "version": "0.1.96",
+  "notes": "Versickerungsversuch im Feld: Stoppuhr mit Start, Stop und Messwertuebernahme; kumulative Zeit im Format mm:ss; Intervalle werden automatisch in Sekunden berechnet. Vorhandene Messwerte koennen weiterhin vollstaendig von Hand nachgetragen werden. Die doppelte Bodenansprache wurde entfernt.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.97/bOden_0.1.97_Patch.zip",
+  "version": "0.1.97",
   "updateType": "patch",
-  "baseVersion": "0.1.95",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.96/bOden-Patch-Installer-0.1.96.exe",
+  "baseVersion": "0.1.96",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.97/bOden-Patch-Installer-0.1.97.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
