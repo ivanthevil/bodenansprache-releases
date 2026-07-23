@@ -1,10 +1,10 @@
 {
-  "notes": "Versickerungsversuch im Feld: Stoppuhr mit Start, Stop und Messwertuebernahme; kumulative Zeit im Format mm:ss; Intervalle werden automatisch in Sekunden berechnet. Vorhandene Messwerte koennen weiterhin vollstaendig von Hand nachgetragen werden. Die doppelte Bodenansprache wurde entfernt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.97/bOden_0.1.97_Patch.zip",
-  "version": "0.1.97",
+  "notes": "Versickerungsversuch: Filterrohr und Vollrohr werden getrennt erfasst; bei Pegel/Ausbau wird der kf-Wert nur mit der wirksamen Filterstrecke berechnet. Bodenansprache und hydraulische Einordnung sind fachlich getrennt und werden auf Plausibilitaet geprueft. Der PDF-Bericht zeigt GOK-ROK korrekt als 0 cm, weist die Rohrlaengen einzeln aus und hebt den kf-Wert lesbar hervor.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.98/bOden_0.1.98_Patch.zip",
+  "version": "0.1.98",
   "updateType": "patch",
-  "baseVersion": "0.1.96",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.97/bOden-Patch-Installer-0.1.97.exe",
+  "baseVersion": "0.1.97",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.98/bOden-Patch-Installer-0.1.98.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
