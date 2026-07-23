@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Export stabilisiert: Bauvorhaben werden vollstaendig in einer lokalen Arbeitskopie aufgebaut und erst nach erfolgreicher Pruefung als fertige MDB in den Exportordner kopiert. Interne JSON-Dateien und versteckte, unvollstaendige MDB-Dateien erscheinen nicht mehr im OneDrive-Ordner. Ueberreste abgebrochener Exporte werden beim naechsten Export bereinigt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.100/bOden_0.1.100_Patch.zip",
-  "version": "0.1.100",
+  "notes": "GWM und GeoDIN erweitert: Bohrverfahren und Bohrwerkzeug werden als gueltige SEP3-Werte erfasst und exportiert. Filterkies sowie Tonsperre, Tongranulat oder Tonkugeln koennen mit Koernung von/bis und eigenem Verfuelldurchmesser dokumentiert werden. Die Angaben erscheinen auch im GWM-PDF.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.101/bOden_0.1.101_Patch.zip",
+  "version": "0.1.101",
   "updateType": "patch",
-  "baseVersion": "0.1.99",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.100/bOden-Patch-Installer-0.1.100.exe",
+  "baseVersion": "0.1.100",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.101/bOden-Patch-Installer-0.1.101.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
