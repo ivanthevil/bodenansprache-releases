@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN/SEP3: Probenarten und Probenmaterial werden mit offiziellen SEP3-Schluesseln exportiert. Probe im Glas wird als G statt g geschrieben. Anthropogene Bodenarten, Auffuellungsgenese und Petrographie sind getrennt und SEP3-konform. Ungueltiger Freitext wird nicht mehr in kontrollierte Zusatzfelder geschrieben, bleibt aber in den ergaenzenden Bemerkungen erhalten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.99/bOden_0.1.99_Patch.zip",
-  "version": "0.1.99",
+  "notes": "GeoDIN-Export stabilisiert: Bauvorhaben werden vollstaendig in einer lokalen Arbeitskopie aufgebaut und erst nach erfolgreicher Pruefung als fertige MDB in den Exportordner kopiert. Interne JSON-Dateien und versteckte, unvollstaendige MDB-Dateien erscheinen nicht mehr im OneDrive-Ordner. Ueberreste abgebrochener Exporte werden beim naechsten Export bereinigt.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.100/bOden_0.1.100_Patch.zip",
+  "version": "0.1.100",
   "updateType": "patch",
-  "baseVersion": "0.1.98",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.99/bOden-Patch-Installer-0.1.99.exe",
+  "baseVersion": "0.1.99",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.100/bOden-Patch-Installer-0.1.100.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
