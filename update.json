@@ -1,10 +1,10 @@
 {
-  "notes": "SharePoint-Sortierung korrigiert: Die linke Auswahl ist jetzt als eindeutige Ordnerhierarchie Projektnummer, Bauvorhaben, Datum und anschliessend GeoDIN sowie Verfahrensdateien aufgebaut. Projektnummern und Bauvorhaben werden nicht mehr fuer jedes Datum wiederholt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.116/bOden_0.1.116_Patch.zip",
-  "version": "0.1.116",
+  "notes": "SharePoint-Felddatum korrigiert: Fuer die Datumsebene wird jetzt das tatsaechliche Datum aus dem bOden-Dokumentkopf verwendet und nicht mehr das Bearbeitungsdatum der Datei. Mit dem neuen Schalter Nach Datum sortieren kann die Datumsebene jederzeit ein- oder ausgeschaltet werden.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.117/bOden_0.1.117_Patch.zip",
+  "version": "0.1.117",
   "updateType": "patch",
-  "baseVersion": "0.1.115",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.116/bOden-Patch-Installer-0.1.116.exe",
+  "baseVersion": "0.1.116",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.117/bOden-Patch-Installer-0.1.117.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
