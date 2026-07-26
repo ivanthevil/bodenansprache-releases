@@ -1,10 +1,10 @@
 {
-  "notes": "LPV-Sicherheit und Tablet-Ueberarbeitung: Neue LPVs erhalten eigene eindeutige Punktnamen und koennen bestehende LPVs nicht mehr still ueberschreiben. +LPV erzeugt keinen falschen Folgeversuch oder RKS-Punkt mehr. Das LPV-Modul nutzt die kompakte Superdesign-Fachmodulansicht mit grossem Numpad, besser lesbarer Tabelle, direkter Gegengewichtseingabe inklusive Radlader, Einbaudatum UNBEKANNT und automatischem Ruecksetzen des Messwertzaehlers. In der Fotogalerie werden unsichere Dateizuordnungen als Nicht zugeordnet angezeigt; Punkt, Beschreibung und Fotoart koennen bearbeitet und LPV-Fotozuordnungen ohne Loeschen der Bilddateien geloest werden.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.112/bOden_0.1.112_Patch.zip",
-  "version": "0.1.112",
+  "notes": "Fotogalerie-Zuordnung und Sicherheit: Fotos koennen nun einzeln geloescht werden; Bilddateien werden dabei in den b0den-Papierkorb verschoben. Die Bearbeitung bietet eine projektuebergreifende Auswahl nach Projektnummer, Bauvorhaben und tatsaechlichem Fachpunkt. LPV-Punkte werden korrekt als LPV angezeigt, RKS nur bei echten RKS-Punkten. Auch Umgebungsfotos lassen sich einer Projektnummer und einem Bauvorhaben zuordnen. Bereits geloeste LPV-Fotos bleiben unter Nicht zugeordnet und koennen von dort manuell neu verteilt werden.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.113/bOden_0.1.113_Patch.zip",
+  "version": "0.1.113",
   "updateType": "patch",
-  "baseVersion": "0.1.111",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.112/bOden-Patch-Installer-0.1.112.exe",
+  "baseVersion": "0.1.112",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.113/bOden-Patch-Installer-0.1.113.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
