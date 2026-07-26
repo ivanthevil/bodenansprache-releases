@@ -1,10 +1,10 @@
 {
-  "notes": "SharePoint-Felddatum korrigiert: Fuer die Datumsebene wird jetzt das tatsaechliche Datum aus dem bOden-Dokumentkopf verwendet und nicht mehr das Bearbeitungsdatum der Datei. Mit dem neuen Schalter Nach Datum sortieren kann die Datumsebene jederzeit ein- oder ausgeschaltet werden.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.117/bOden_0.1.117_Patch.zip",
-  "version": "0.1.117",
+  "notes": "Tablet-Layout korrigiert: Der SharePoint-Schalter heisst jetzt kompakt Nach Datum und bleibt innerhalb der linken Spalte. Im Feldmenue bleibt auch Versickerung bei vergroesserter Schrift vollstaendig innerhalb der Karte.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.118/bOden_0.1.118_Patch.zip",
+  "version": "0.1.118",
   "updateType": "patch",
-  "baseVersion": "0.1.116",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.117/bOden-Patch-Installer-0.1.117.exe",
+  "baseVersion": "0.1.117",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.118/bOden-Patch-Installer-0.1.118.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
