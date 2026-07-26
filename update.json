@@ -1,10 +1,10 @@
 {
-  "notes": "SharePoint-Touchkorrektur fuer Tablets: Beim Antippen und Oeffnen normaler Ordner wird ein eventuell aktives Textfeld jetzt sofort verlassen. Zusaetzlich verhindert b0den kurzzeitig, dass SharePoint waehrend des Ordnerwechsels automatisch erneut ein Such- oder Eingabefeld fokussiert und dadurch die Windows-Bildschirmtastatur oeffnet. Echte Texteingaben wie Neuer Ordner, Ordner und Umbenennen bleiben von der Sperre ausgenommen.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.108/bOden_0.1.108_Patch.zip",
-  "version": "0.1.108",
+  "notes": "SharePoint-Tabletkorrektur: Microsoft-365-Dateilisten erhalten automatisch zusaetzlichen Scrollraum unterhalb des letzten Eintrags, damit feste Microsoft-Navigationsleisten keine halbe Dateizeile mehr verdecken. Der b0den-Tastaturknopf wurde aus dem unteren Dateibereich in die obere SharePoint-Browsersteuerung links vor die Pfeile verschoben. Der Knopf startet nun zuerst die zuverlaessige Windows-Bildschirmtastatur und verwendet die Touch-Tastatur nur noch als Rueckfallebene.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.109/bOden_0.1.109_Patch.zip",
+  "version": "0.1.109",
   "updateType": "patch",
-  "baseVersion": "0.1.107",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.108/bOden-Patch-Installer-0.1.108.exe",
+  "baseVersion": "0.1.108",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.109/bOden-Patch-Installer-0.1.109.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
