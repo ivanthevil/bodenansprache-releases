@@ -1,10 +1,10 @@
 {
-  "notes": "Fotogalerie-Korrektur: Bereits zugeordnete Fotos werden nicht mehr zusaetzlich als doppelte, nicht zugeordnete Kopien angezeigt. Bei einer neuen Zuordnung werden automatisch erzeugte falsche Beschriftungen wie KRB passend zu Verfahren und Punkt aktualisiert; manuell eingegebene Beschreibungen bleiben erhalten. Die PDF-Designs sind gegenueber Version 0.1.113 unveraendert.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.114/bOden_0.1.114_Patch.zip",
-  "version": "0.1.114",
+  "notes": "Tablet- und Datenkorrekturen: Die Schriftgroesse vergroessert jetzt ausschliesslich Text und erzeugt keinen weissen Seitenrand mehr. LPV-Fotos mit veralteten Dateiverweisen werden wiederhergestellt und kompatibel ausgegeben. SharePoint-Exporte sind nach Projektnummer, Bauvorhaben, Datum und Verfahren sortiert. Projektnummer und Bauvorhaben lassen sich gemeinsam fuer alle Punkte aendern. Die LPV-Laststufentabelle ist vollstaendig sichtbar. Die Rammsondierung besitzt groessere Tabellenzeilen, Links-/Rechtshaender-Modus und einen integrierten Werteditor mit Numpad ohne Windows-Tastatur.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.115/bOden_0.1.115_Patch.zip",
+  "version": "0.1.115",
   "updateType": "patch",
-  "baseVersion": "0.1.113",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.114/bOden-Patch-Installer-0.1.114.exe",
+  "baseVersion": "0.1.114",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.115/bOden-Patch-Installer-0.1.115.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
