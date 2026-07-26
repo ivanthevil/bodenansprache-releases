@@ -1,10 +1,10 @@
 {
-  "notes": "SharePoint-Projektfilter: Die linke Exportliste zeigt nur noch PDF-, GeoDIN- und Fotodateien, die eindeutig einem in b0den gespeicherten Projekt und Bauvorhaben zugeordnet sind. Alte Testdateien, fremde Tablet-Dateien und der unsortierte Bereich 'Weitere Exporte' werden ausgeblendet. Derselbe Projektabgleich schuetzt auch den direkten Dateiabruf und Upload.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.110/bOden_0.1.110_Patch.zip",
-  "version": "0.1.110",
+  "notes": "Fotogalerie und Fotorettung: Die Galerie verwendet nun die tabletoptimierte Master-Detail-Ansicht mit Projekten links, Bauvorhaben rechts und einem Direktzugriff auf aktuelle Alben. Es werden alle gespeicherten Projekte statt nur der letzten 30 geladen. LPV- und andere Projektfotos, deren Verweis in einer aelteren oder geretteten Projektdatei fehlt, werden aus den vorhandenen Bilddateien im passenden Projekt-Exportordner wieder eingebunden. Die Projektdateien und Bilder bleiben dabei unveraendert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.111/bOden_0.1.111_Patch.zip",
+  "version": "0.1.111",
   "updateType": "patch",
-  "baseVersion": "0.1.109",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.110/bOden-Patch-Installer-0.1.110.exe",
+  "baseVersion": "0.1.110",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.111/bOden-Patch-Installer-0.1.111.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
