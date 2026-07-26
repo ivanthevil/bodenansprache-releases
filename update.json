@@ -1,10 +1,10 @@
 {
-  "notes": "Neue moderne Fotogalerie ohne unteres Popup: Alben werden als uebersichtliches Vollseiten-Archiv mit Verfahren, Fotoart, Datum, Motivbeschreibung und grosser Vorschau geoeffnet. Die neue Feldkamera bietet eine grosse Liveansicht, klaren Ausloeser, Messpunkt- und Sensorstatus sowie einen Filmstreifen der letzten Aufnahmen. Der Kamerastart ist deutlich schneller, weil GPS parallel laeuft, die Vorschau effizient in 1080p arbeitet und Fotos nur noch einmal asynchron kodiert werden.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.104/bOden_0.1.104_Patch.zip",
-  "version": "0.1.104",
+  "notes": "Neue SharePoint-Portalansicht direkt in b0den: normale Microsoft-Anmeldung wie im Browser inklusive Firmenhandy/MFA, ohne Client-ID, Tenant-ID oder zentrale Freigabe der b0den-App. PDF-, GeoDIN- und Fotodateien koennen links ausgewaehlt und an SharePoints normalen Upload-Dialog uebergeben werden. Die linke Dateiliste wurde fuer Tablets vergroessert; Projektangaben, Dateinamen, Typen, Groessen und Auswahlfelder sind besser lesbar. Die ALLES-Markierung ist groesser und zeigt den aktiven Zustand deutlich kontrastiert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.105/bOden_0.1.105_Patch.zip",
+  "version": "0.1.105",
   "updateType": "patch",
-  "baseVersion": "0.1.103",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.104/bOden-Patch-Installer-0.1.104.exe",
+  "baseVersion": "0.1.104",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.105/bOden-Patch-Installer-0.1.105.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
