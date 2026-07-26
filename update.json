@@ -1,10 +1,10 @@
 {
-  "notes": "SharePoint-Korrektur fuer Tablets: Die TBG-Dokumentbibliothek ist jetzt die Standard-Startseite und ersetzt automatisch die bisherige Office-Startadresse. Microsoft-365- und SharePoint-Anmeldefenster verwenden dieselbe b0den-Sitzung, sodass die Anmeldung inklusive Firmenhandy/MFA ohne Main-Process-Absturz abgeschlossen werden kann. Weiterleitungen auf die neue Microsoft-365-Copilot-Domain werden innerhalb von b0den verarbeitet; eine separate Copilot-Anmeldung wird nicht mehr ausgeloest.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.106/bOden_0.1.106_Patch.zip",
-  "version": "0.1.106",
+  "notes": "SharePoint-Tabletoptimierung: Alle Projektgruppen starten geschlossen und lassen sich kompakt aufklappen. Dateien sind innerhalb der Projekte nach GEODIN (gruen), PDF (rot) und FOTO (blau) sortiert und koennen einzeln, je Typ oder gemeinsam ausgewaehlt werden. Das SharePoint-Fenster ist breiter und leicht vergroessert. Der neue Button AUSWAHL HOCHLADEN startet SharePoints Datei-Upload automatisch; bei Aenderungen der Microsoft-Oberflaeche bleibt die manuelle Uebergabe als Rueckfallebene erhalten. Die Bildschirmtastatur wird beim Oeffnen normaler Ordner geschlossen und kann ueber einen grossen Button unten rechts aufgerufen werden.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.107/bOden_0.1.107_Patch.zip",
+  "version": "0.1.107",
   "updateType": "patch",
-  "baseVersion": "0.1.105",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.106/bOden-Patch-Installer-0.1.106.exe",
+  "baseVersion": "0.1.106",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.107/bOden-Patch-Installer-0.1.107.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
