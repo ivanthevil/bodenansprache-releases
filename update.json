@@ -1,10 +1,10 @@
 {
-  "notes": "Neue Exportvariante TABERG PDF fuer statische Lastplattendruckversuche. b0den berechnet EV1, EV2, EV2/EV1 und die Regressionswerte jetzt intern und erzeugt das zweiseitige Firmenformular samt Diagramm vollstaendig offline. Microsoft Excel oder eine Office-Anmeldung werden nicht mehr benoetigt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.122/bOden_0.1.122_Patch.zip",
-  "version": "0.1.122",
+  "notes": "TABERG-PDF-Export bereinigt: durchgaengige Tabellenlinien ohne Zellluecken, vollstaendig gruene Messuhr-Zellen und besser lesbare Kopfzeilenwerte mit Unterstrichen.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.123/bOden_0.1.123_Patch.zip",
+  "version": "0.1.123",
   "updateType": "patch",
-  "baseVersion": "0.1.121",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.122/bOden-Patch-Installer-0.1.122.exe",
+  "baseVersion": "0.1.122",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.123/bOden-Patch-Installer-0.1.123.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
