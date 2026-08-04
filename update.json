@@ -1,10 +1,10 @@
 {
-  "notes": "Neue PROGRAMME-Suite im Startmenue. GeoDIN Fusion fuer Windows kann dort als eigenstaendiges Werkzeug heruntergeladen werden; der Katalog ist fuer weitere Windows-, Android- und Tablet-Programme vorbereitet.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.124/bOden_0.1.124_Patch.zip",
-  "version": "0.1.124",
+  "notes": "Neuer Manager fuer Bauvorhaben mit Probenstatistik, Bohrmeter-Auswertung und horizontalen DIN-Profilen inklusive Ramme/GWM. GeoDIN-Export und SharePoint-Webfenster repariert. Ergaenzende Bemerkungen um Flusskies und Quarzkiese erweitert; eigene Abkuerzungen koennen dauerhaft angelegt, korrigiert und geloescht werden.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.125/bOden_0.1.125_Patch.zip",
+  "version": "0.1.125",
   "updateType": "patch",
-  "baseVersion": "0.1.123",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.124/bOden-Patch-Installer-0.1.124.exe",
+  "baseVersion": "0.1.124",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.125/bOden-Patch-Installer-0.1.125.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
