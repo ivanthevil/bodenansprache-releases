@@ -1,10 +1,10 @@
 {
-  "notes": "Neuer Manager fuer Bauvorhaben mit Probenstatistik, Bohrmeter-Auswertung und horizontalen DIN-Profilen inklusive Ramme/GWM. GeoDIN-Export und SharePoint-Webfenster repariert. Ergaenzende Bemerkungen um Flusskies und Quarzkiese erweitert; eigene Abkuerzungen koennen dauerhaft angelegt, korrigiert und geloescht werden.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.125/bOden_0.1.125_Patch.zip",
-  "version": "0.1.125",
+  "notes": "SharePoint-Upload an die aktuelle OneDrive-Oberflaeche angepasst und unerwuenschtes Oeffnen der Windows-Tastatur bei Ordnern behoben. Manager-Profile sind vertikal scrollbar; gekoppelte RKS und Rammen verwenden eine gemeinsame Tiefenskala. Probenbehaelter werden ausgeschrieben. PDF komponieren exportiert wahlweise eine gemeinsame PDF oder einzelne PDFs.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.126/bOden_0.1.126_Patch.zip",
+  "version": "0.1.126",
   "updateType": "patch",
-  "baseVersion": "0.1.124",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.125/bOden-Patch-Installer-0.1.125.exe",
+  "baseVersion": "0.1.125",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.126/bOden-Patch-Installer-0.1.126.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
