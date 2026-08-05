@@ -1,10 +1,10 @@
 {
-  "notes": "Manager-Profile verwenden jetzt einen automatisch lesbaren Tiefenmassstab: Auch sehr duenne Schichten und mehrere Probenmarker werden nicht mehr gequetscht oder ueberlagert. Bodenarten erhalten klar unterscheidbare, DIN-4023-orientierte Fachschraffuren; gekoppelte RKS-, Ramm- und GWM-Profile bleiben tiefengleich ausgerichtet.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.127/bOden_0.1.127_Patch.zip",
-  "version": "0.1.127",
+  "notes": "Rammsondierung: Die hervorgehobenen vollen Meter beruecksichtigen jetzt die eingestellte Starttiefe. Bei einem Start ab 0,40 m werden die Zeilen wieder korrekt als 1,0 m, 2,0 m usw. angezeigt; Tabelle, aktueller Wert und Diagramm verwenden dieselbe Tiefenberechnung.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.128/bOden_0.1.128_Patch.zip",
+  "version": "0.1.128",
   "updateType": "patch",
-  "baseVersion": "0.1.126",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.127/bOden-Patch-Installer-0.1.127.exe",
+  "baseVersion": "0.1.127",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.128/bOden-Patch-Installer-0.1.128.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
