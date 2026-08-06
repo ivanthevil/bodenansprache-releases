@@ -1,10 +1,10 @@
 {
-  "notes": "Manager: Rammsondierungen verwenden jetzt den tatsaechlichen Punktnamen aus dem Projekt. Jede Messzeile zeigt ihre absolute Tiefe und die zugehoerige N10-Schlagzahl gut lesbar an. Reine Rammprofile erhalten eine kompakte technische Karte ohne leeren Bohrprofil-Platzhalter; bei kombinierten Punkten bleiben RKS und Ramme auf derselben Tiefenskala ausgerichtet.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.129/bOden_0.1.129_Patch.zip",
-  "version": "0.1.129",
+  "notes": "Neu: Bohrkern-Fotodokumentation fuer Tablet und Windows. Fotoserien koennen importiert oder direkt aufgenommen, automatisch zugeschnitten, einheitlich belichtet, geschaerft und sortiert werden. Meterbereiche, Projekt, Bauvorhaben und vorhandene Bodenansprachen lassen sich verknuepfen. Ein kalibrierter virtueller Massstab sowie eine erst nach dem Colourgrading eingesetzte Farbreferenz koennen eingeblendet werden. Die fertige Serie wird als fachlich aufgebaute PDF-Dokumentation ausgegeben; optional kann die bestehende Online-KI-Konfiguration bei der Kernkistenerkennung helfen.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.130/bOden_0.1.130_Patch.zip",
+  "version": "0.1.130",
   "updateType": "patch",
-  "baseVersion": "0.1.128",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.129/bOden-Patch-Installer-0.1.129.exe",
+  "baseVersion": "0.1.129",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.130/bOden-Patch-Installer-0.1.130.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
