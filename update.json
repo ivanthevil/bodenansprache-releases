@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-Fotodokumentation mit neuem Auswahl- und Ausrichtungsablauf: Nach dem Import zeigt bOden jedes nahezu originale Foto mit einzeln markierten Kern- und Linerreihen. Die richtigen Reihen werden direkt im Foto an- oder abgewaehlt. Fotos lassen sich um 90 Grad drehen; jede aktive Reihe kann ueber vier frei verschiebbare Eckpunkte perspektivisch korrigiert oder auf die KI-Ausrichtung zurueckgesetzt werden. Erst danach wird jede ausgewaehlte Reihe einzeln ausgeschnitten und rechteckig begradigt. Eine frei waehlbare Starttiefe beruecksichtigt fehlende erste Bohrmeter und wird als erster VON-Wert uebernommen. Sichtbare Projekt- und Punktbezeichnungen werden von Gemini als Vorschlag an vorhandene b0den-Projekte weitergegeben. Getestet mit allen zehn realen Bohrkernfotos: 54 einzelne Reihen wurden erkannt und ohne Doppelpakete verarbeitet.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.134/bOden_0.1.134_Patch.zip",
-  "version": "0.1.134",
+  "notes": "Bohrkern-Vorauswahl korrigiert: KI-Erkennung markiert nicht mehr automatisch alle gefundenen Kern- und Linerreihen als ausgewaehlt. Nur die vom Anwender angetippten Reihen werden zugeschnitten. VON- und BIS-Tiefe werden bereits in der Vorauswahl ueber die vertrauten b0den-Tiefenscroller eingestellt; die folgende Reihe kann die vorherige Endtiefe uebernehmen. Der Fortfahren-Knopf wird erst freigegeben, wenn alle ausgewaehlten Reihen vollstaendige Tiefen besitzen. Die Werte bleiben beim Zuschnitt erhalten, wodurch der doppelte Tiefenschritt entfaellt.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.135/bOden_0.1.135_Patch.zip",
+  "version": "0.1.135",
   "updateType": "patch",
-  "baseVersion": "0.1.133",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.134/bOden-Patch-Installer-0.1.134.exe",
+  "baseVersion": "0.1.134",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.135/bOden-Patch-Installer-0.1.135.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
