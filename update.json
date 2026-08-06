@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-KI-Erkennung stabilisiert: Gemini akzeptiert nur noch vollstaendige, deutlich sichtbare Kernkisten oder zusammengehoerige Liner-Gruppen. Einzelne Steine, Bodenstrukturen, Schatten, Kleidung und kleine Bildfragmente werden verworfen. Gemini-Koordinaten aus unterschiedlichen Skalen werden korrekt normalisiert; zu kleine, unplausible und ueberlappende Ausschnitte werden automatisch entfernt. Erkennungen unterhalb der Sicherheitsschwelle werden nicht uebernommen. Wird keine sichere Kernkiste erkannt, legt bOden genau einen pruefbaren Gesamtausschnitt an statt vieler falscher Mini-Ausschnitte.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.132/bOden_0.1.132_Patch.zip",
-  "version": "0.1.132",
+  "notes": "Bohrkern-Fotodokumentation an der echten Testserie neu ausgerichtet: bOden erkennt einzelne lange Kern- und Linerreihen und fasst immer zwei aufeinanderfolgende Reihen zu einem fachlich zusammengehoerigen Ausschnitt zusammen. Der Zuschnitt wird zuerst in der Originalausrichtung berechnet und erst danach bei Bedarf horizontal gedreht. Boden, Schuhe, Meterkarten und der separate Massstab bleiben ausserhalb des Ausschnitts. Jede sichtbare Kernreihe besitzt direkt links ein VON- und rechts ein BIS-Feld; der Endmeter der ersten Reihe wird automatisch zum Startmeter der zweiten Reihe und beim Weitergehen zum Start der naechsten Kiste. Die Erkennung wurde mit allen zehn Fotos im Ordner Bohrkerne Fotos sowie dem vorgegebenen Handzuschnitt geprueft.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.133/bOden_0.1.133_Patch.zip",
+  "version": "0.1.133",
   "updateType": "patch",
-  "baseVersion": "0.1.131",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.132/bOden-Patch-Installer-0.1.132.exe",
+  "baseVersion": "0.1.132",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.133/bOden-Patch-Installer-0.1.133.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
