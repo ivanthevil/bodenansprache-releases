@@ -1,10 +1,10 @@
 {
-  "notes": "Neu: Bohrkern-Fotodokumentation fuer Tablet und Windows. Fotoserien koennen importiert oder direkt aufgenommen, automatisch zugeschnitten, einheitlich belichtet, geschaerft und sortiert werden. Meterbereiche, Projekt, Bauvorhaben und vorhandene Bodenansprachen lassen sich verknuepfen. Ein kalibrierter virtueller Massstab sowie eine erst nach dem Colourgrading eingesetzte Farbreferenz koennen eingeblendet werden. Die fertige Serie wird als fachlich aufgebaute PDF-Dokumentation ausgegeben; optional kann die bestehende Online-KI-Konfiguration bei der Kernkistenerkennung helfen.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.130/bOden_0.1.130_Patch.zip",
-  "version": "0.1.130",
+  "notes": "Bohrkern-Fotodokumentation grundlegend ueberarbeitet: Die bereits eingerichtete Google-Gemini-KI erkennt in jedem Ausgangsfoto mehrere Kernkisten oder Liner, bestimmt Drehung und Ausschnitt und trennt die erkannten Objekte automatisch. Unsichere Ausschnitte werden zur Kontrolle markiert. Danach fragt bOden jeden Ausschnitt nacheinander nach seinem Von-/Bis-Meterbereich und uebernimmt den Endwert automatisch als Startwert des naechsten Ausschnitts. Belichtung, Weissabgleich, Kontrast, Farbe und Schaerfe werden erst nach vollstaendiger Meterzuordnung fuer die gesamte Serie gemeinsam berechnet. Massstab und Farbreferenz werden erst nach dem Serienabgleich eingesetzt; vor dem PDF-Export steht ein Vorher-/Nachher-Vergleich bereit.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.131/bOden_0.1.131_Patch.zip",
+  "version": "0.1.131",
   "updateType": "patch",
-  "baseVersion": "0.1.129",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.130/bOden-Patch-Installer-0.1.130.exe",
+  "baseVersion": "0.1.130",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.131/bOden-Patch-Installer-0.1.131.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/Bodenansprache_0.1.85_Portable_Ordner.zip",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.85/bOden-Installer-0.1.85.exe"
 }
