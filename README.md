@@ -11,7 +11,7 @@ internen Patch-Updater.
 
 ## Plattformen
 
-- Windows-PC und Windows-Tablet: portable `.exe`
-- Android: `.apk` wird spaeter an derselben Release-Stelle ergaenzt
+- Windows-PC und Windows-Tablet: dieselbe portable `.exe` mit vollstaendigem bOden-Funktionsumfang
+- Android: separate Testapp **bOden Rueckbau** im Repository `boden-android-releases`; sie enthaelt nicht den vollstaendigen Windows-/Tablet-Funktionsumfang
 
 In diesem Repository liegen keine Projektdateien, Fotos oder Kundendaten.
