@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-Fotodokumentation fuer Windows-Tablets und PCs: aktive und bereits bearbeitete Fotos sind eindeutig markiert, ausgewaehlte Kerne werden deutlich hervorgehoben und die sichtbaren linken/rechten Endtiefen lassen sich direkt per Tiefen-Scroller erfassen. Die Uebernahme schneidet und entzerrt ausgewaehlte Kerne, richtet bei umgekehrter Tiefenrichtung korrekt aus und sortiert sie tiefenaufsteigend. Optionaler fester 1-m-Massstab; automatischer Farb-, Belichtungs-, Kontrast- und Schaerfeabgleich bleibt erhalten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.137/bOden_0.1.137_Patch.zip",
-  "version": "0.1.137",
+  "notes": "Bohrkern-Fotodokumentation fuer Windows-Tablets und PCs: dezente Auswahlmarkierung, ruhige grossflaechige Ergebnisansicht in Tiefenreihenfolge und passende Bodenansprache je Tiefenabschnitt. Kernbilder und PDF bewahren das Seitenverhaeltnis; unsichere Perspektiven werden ohne Streckung beschnitten. Fotoeigene Massstaebe werden bereits bei der konturbasierten Erkennung ausgeschlossen. Der optionale 1-m-Bohrkernmassstab ist schlank und realistisch ausgefuehrt; der automatische Farb-, Belichtungs-, Kontrast- und Schaerfeabgleich bleibt erhalten.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.138/bOden_0.1.138_Patch.zip",
+  "version": "0.1.138",
   "updateType": "patch",
-  "baseVersion": "0.1.136",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.137/bOden-Patch-Installer-0.1.137.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.137/bOden_0.1.137_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.137/bOden_0.1.137_Portable.exe"
+  "baseVersion": "0.1.137",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.138/bOden-Patch-Installer-0.1.138.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.138/bOden_0.1.138_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.138/bOden_0.1.138_Portable.exe"
 }
