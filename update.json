@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-Fotodokumentation fuer Windows-Tablets und PCs: Die neue transparente Zwei-Liner-Vorlage wird verwendet. Ausgewaehltes Original-Kernmaterial wird vor dem Einsetzen perspektivisch begradigt, in einem zweiten Materialzuschnitt von altem Liner, Kappen und Randobjekten getrennt und ohne Strecken in die Vorlage eingesetzt. Die Vorschau behaelt mehr sichtbare Umgebung; Gemini-Treffer werden durch eine verbesserte lokale Reihenerkennung und eine manuelle Vierpunkt-Kernreihe ergaenzt. Gruene Auswahl, schnellere Rollen-Tiefeneingabe, fortlaufend anhaengbarer Fotoimport, ARCHIV-Start, Projektzuordnung ueber erkannte Punkte und das Datum der verknuepften Bodenansprache sind korrigiert. Massstab und optionale Farbpalette sind auf Tablets besser lesbar. Die kompakte PDF nutzt den Bodenansprache-Kopf, zeigt Tiefen direkt an den Kernkisten, ordnet echte Schichten zu und laesst den Informationsbereich bei fehlender Ansprache weg.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.144/bOden_0.1.144_Patch.zip",
-  "version": "0.1.144",
+  "notes": "Bohrkern-Fotodokumentation fuer Windows-Tablets und PCs: Originalkerne werden mit einer echten projektiven Vierpunkt-Entzerrung waagerecht ausgerichtet, enger vom alten Foto-Liner getrennt und seitenverhaeltnistreu ohne Vergroessern oder Strecken in die Zwei-Liner-Vorlage eingesetzt. Vollstaendige Kernenden bleiben sichtbar. Die kombinierte Gemini- und lokale Erkennung akzeptiert Quer- und Hochformat, ergaenzt fehlende Reihen und verwirft keine Treffer mehr, wenn Gemini nur eine Materialkontur liefert. Der Rollen-Tiefenpicker bleibt stabil montiert und Autosaves laufen zeitversetzt im Leerlauf, damit die Tablet-Eingabe deutlich direkter reagiert. Gruene Auswahl, manuelle Vierpunkt-Korrektur und die bestehende konservative Farbkorrektur bleiben erhalten.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.145/bOden_0.1.145_Patch.zip",
+  "version": "0.1.145",
   "updateType": "patch",
-  "baseVersion": "0.1.143",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.144/bOden-Patch-Installer-0.1.144.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.144/bOden_0.1.144_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.144/bOden_0.1.144_Portable.exe"
+  "baseVersion": "0.1.144",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.145/bOden-Patch-Installer-0.1.145.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.145/bOden_0.1.145_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.145/bOden_0.1.145_Portable.exe"
 }
