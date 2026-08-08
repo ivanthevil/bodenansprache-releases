@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-Fotodokumentation fuer Windows-Tablets und PCs: Anfangs- und Endmeter werden ohne native Bildschirmtastatur ueber den Rollen-Picker gewaehlt. Die Vorauswahl grenzt einzelne Kern- und Linerreihen enger ab und schliesst Kistenrahmen, Zwischenraeume sowie fotoeigene Lineale konservativer aus. Schiefe oder hochkant aufgenommene Reihen werden robuster und ohne Streckung ausgerichtet. Die dezente Auswahlmarkierung laesst die Kernstruktur sichtbar. Die vergroesserte Farbreferenz sitzt ausschliesslich in einem eigenen grauen Randstreifen; der bewaehrte 1-m-Massstab bleibt unveraendert. Das kompakte A4-PDF besitzt ein klar proportioniertes Taberg-Logo, sauber ausgerichtete Kopfzeilen und groessere Beschriftungen bei weiterhin bis zu fuenf Abschnitten pro Seite.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.140/bOden_0.1.140_Patch.zip",
-  "version": "0.1.140",
+  "notes": "Bohrkern-ARCHIV und natuerliche Kernkistenansicht fuer Windows-Tablets und PCs: Vollstaendige Holzkisten werden als Referenzflaeche erkannt und perspektivisch rechteckig ausgerichtet, ohne Bildproportionen zu strecken. Eine manuelle Vierpunkt-Kistengrenze bleibt fuer schwierige oder gedrehte Aufnahmen verfuegbar. Quellfotos, Kisten-/Kernansichten, Tiefen, Bodenansprache, Einstellungen und PDF-Metadaten werden fortlaufend als lokaler Entwurf im eigenstaendigen ARCHIV gesichert und nach Ruecknavigation wieder aufgenommen. Import, Analyse, Ausrichtung und Serienarbeit zeigen einen zentralen Fortschrittsdialog mit Foto- und Gesamtfortschritt sowie Datei-Fehlern. Es ist kein generativer Inpainting-Dienst konfiguriert: Lineale und Schilder werden erkannt und transparent als nicht rekonstruiert ausgewiesen; Originalbilder bleiben erhalten. Bestehende konservative Farbkorrektur, 1-m-Massstab, Farbreferenz und kompakte Mehrabschnitts-PDFs bleiben erhalten.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.141/bOden_0.1.141_Patch.zip",
+  "version": "0.1.141",
   "updateType": "patch",
-  "baseVersion": "0.1.139",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.140/bOden-Patch-Installer-0.1.140.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.140/bOden_0.1.140_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.140/bOden_0.1.140_Portable.exe"
+  "baseVersion": "0.1.140",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.141/bOden-Patch-Installer-0.1.141.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.141/bOden_0.1.141_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.141/bOden_0.1.141_Portable.exe"
 }
