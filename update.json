@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-ARCHIV und natuerliche Kernkistenansicht fuer Windows-Tablets und PCs: Vollstaendige Holzkisten werden als Referenzflaeche erkannt und perspektivisch rechteckig ausgerichtet, ohne Bildproportionen zu strecken. Eine manuelle Vierpunkt-Kistengrenze bleibt fuer schwierige oder gedrehte Aufnahmen verfuegbar. Quellfotos, Kisten-/Kernansichten, Tiefen, Bodenansprache, Einstellungen und PDF-Metadaten werden fortlaufend als lokaler Entwurf im eigenstaendigen ARCHIV gesichert und nach Ruecknavigation wieder aufgenommen. Import, Analyse, Ausrichtung und Serienarbeit zeigen einen zentralen Fortschrittsdialog mit Foto- und Gesamtfortschritt sowie Datei-Fehlern. Es ist kein generativer Inpainting-Dienst konfiguriert: Lineale und Schilder werden erkannt und transparent als nicht rekonstruiert ausgewiesen; Originalbilder bleiben erhalten. Bestehende konservative Farbkorrektur, 1-m-Massstab, Farbreferenz und kompakte Mehrabschnitts-PDFs bleiben erhalten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.141/bOden_0.1.141_Patch.zip",
-  "version": "0.1.141",
+  "notes": "Korrektur der Bohrkern-Fotodokumentation fuer Windows-Tablets und PCs: Die verzoegernde Entwurfssicherung uebertraegt im laufenden Arbeiten keine Base64-Bilder mehr und reduziert den Autosave-Umfang um ueber 99 Prozent. Die lokale Erkennung findet horizontale Kernreihen auch ohne Online-KI und verwirft vertikale Fehlzonen. Auswahlflaechen sind klar gruen und lassen die Kernstruktur sichtbar. Nach der Tiefenauswahl wird pro Foto eine vollstaendige, natuerliche und waagerechte Kernkistenansicht mit Holzrahmen sowie etwas Umgebung erzeugt, nicht mehr einzelne Reihenschnipsel. Bodenansprache wird je Tiefenintervall rechts und im kompakten PDF verknuepft. Drei Kistenansichten passen lesbar auf eine A4-Seite. Originalbilder bleiben im ARCHIV; generative Retusche ist weiterhin nicht vorgetaeuscht.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.142/bOden_0.1.142_Patch.zip",
+  "version": "0.1.142",
   "updateType": "patch",
-  "baseVersion": "0.1.140",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.141/bOden-Patch-Installer-0.1.141.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.141/bOden_0.1.141_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.141/bOden_0.1.141_Portable.exe"
+  "baseVersion": "0.1.141",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.142/bOden-Patch-Installer-0.1.142.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.142/bOden_0.1.142_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.142/bOden_0.1.142_Portable.exe"
 }
