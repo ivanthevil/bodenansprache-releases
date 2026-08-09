@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-Bildorientierung: bOden dreht importierte Kernkistenfotos nicht mehr automatisch aufgrund eines Hochformat-/Reihenheuristik. Im Dialog zum Festlegen der vier Kistenecken stehen jetzt manuelle 90-Grad-Drehungen nach links und rechts bereit. Bild, Auswahlpolygon, Eckpunkte, Lupe und spaetere Entzerrung verwenden danach dieselbe Orientierung.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.155/bOden_0.1.155_Patch.zip",
-  "version": "0.1.155",
+  "notes": "Entwicklermodus: Zehnmaliges Tippen auf das kleinste A unter Einstellungen > Schriftgroesse schaltet dauerhaft das Entwicklermenue frei; ab Tipp vier zeigt bOden die verbleibenden Schritte. Erstes Werkzeug ist RAMME WIEDERHERSTELLEN: Eine gespeicherte Referenz-RAMME wird geladen, neue Projekt- und Punktdaten werden erfasst und ein klar als Rekonstruktion gekennzeichneter, fachlich zu pruefender RAMME-Entwurf mit aehnlichem, aber nicht 1:1 kopiertem Schlagverlauf erstellt. Sonderzeichen und Bemerkungen der Referenz werden nicht erfunden oder uebernommen.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.156/bOden_0.1.156_Patch.zip",
+  "version": "0.1.156",
   "updateType": "patch",
-  "baseVersion": "0.1.154",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.155/bOden-Patch-Installer-0.1.155.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.155/bOden_0.1.155_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.155/bOden_0.1.155_Portable.exe"
+  "baseVersion": "0.1.155",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.156/bOden-Patch-Installer-0.1.156.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.156/bOden_0.1.156_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.156/bOden_0.1.156_Portable.exe"
 }
