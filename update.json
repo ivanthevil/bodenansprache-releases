@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-GPT- und Scroll-Korrektur: Die optionale GPT-Stoerobjektentfernung ist jetzt funktionsfaehig im richtigen Arbeitskontext verdrahtet und direkt oben im rechten Bereich sichtbar. Sie zeigt klar GPT BEREIT, die Zahl erkannter Masken und bleibt ohne sichere Maske bewusst deaktiviert. Das unveraenderte Original bleibt wiederherstellbar. Die linke Foto-/Kistenliste besitzt wieder einen eigenstaendigen vertikalen Maus- und Touch-Scrollbereich.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.152/bOden_0.1.152_Patch.zip",
-  "version": "0.1.152",
+  "notes": "Bohrkern-Korrektur: GPT sucht Stoerobjekte jetzt selbst, nutzt die neue Kistenreferenz nur als visuelle Richtung und bewahrt ausserhalb bestaetigter Masken exakt die Originalpixel. Original und bereinigte Variante bleiben umschaltbar. Kisten werden nach der Vierpunkt-Entzerrung automatisch waagerecht ausgegeben. PDF-Tiefen stehen in einer eigenen Zeile ausserhalb der Kernbilder. ARCHIV-Entwuerfe lassen sich ueber einen internen bOden-Bestaetigungsdialog loeschen.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.153/bOden_0.1.153_Patch.zip",
+  "version": "0.1.153",
   "updateType": "patch",
-  "baseVersion": "0.1.151",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.152/bOden-Patch-Installer-0.1.152.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.152/bOden_0.1.152_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.152/bOden_0.1.152_Portable.exe"
+  "baseVersion": "0.1.152",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.153/bOden-Patch-Installer-0.1.153.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.153/bOden_0.1.153_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.153/bOden_0.1.153_Portable.exe"
 }
