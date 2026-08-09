@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-Fotodokumentation fuer Windows-Tablets und PCs: Die kuenstliche Liner-Vorlage wurde entfernt. Stattdessen bleibt die natuerliche Original-Kernkiste erhalten, wird an ihrer Holzumrandung projektiv waagerecht ausgerichtet und nach Tiefe dokumentiert. Sicher erkannte Foto-Lineale und Schilder werden lokal und offline mit Big-LaMa ausschliesslich innerhalb ihrer Masken retuschiert; grosse verdeckte Bereiche werden zur Sichtpruefung markiert. Originalpixel ausserhalb der Masken bleiben unveraendert. Die manuelle Vierpunkt-Korrektur nutzt denselben Ablauf, die konservative Farbkorrektur bleibt erhalten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.146/bOden_0.1.146_Patch.zip",
-  "version": "0.1.146",
+  "notes": "Korrektur der Bohrkern-Fotodokumentation: Der Kistenabgleich wird jetzt ausschliesslich aus den gruen markierten Kernreihen aufgebaut; unmarkierte Reihen und benachbarte Kisten werden nicht mehr uebernommen. Die Perspektive wird an den tatsaechlichen Liner-/Holzkanten der Auswahl ausgerichtet. Der fehleranfaellige Textur-Deskew wurde entfernt. Physische Lineale und randstaendige Nummerntafeln werden vorrangig durch sicheren Zuschnitt ausgeschlossen. LaMa ist fuer Kern- und Linerflaechen gesperrt und darf nur noch kleine sichere Holz-/Randmasken bearbeiten; riskante Retuschen bleiben unveraendertes Original.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.147/bOden_0.1.147_Patch.zip",
+  "version": "0.1.147",
   "updateType": "patch",
-  "baseVersion": "0.1.145",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.146/bOden-Patch-Installer-0.1.146.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.146/bOden_0.1.146_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.146/bOden_0.1.146_Portable.exe"
+  "baseVersion": "0.1.146",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.147/bOden-Patch-Installer-0.1.147.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.147/bOden_0.1.147_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.147/bOden_0.1.147_Portable.exe"
 }
