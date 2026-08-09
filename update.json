@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-Tablet-Korrektur: Ausgewaehlte Kerne oeffnen ihre Tiefenwahl jetzt direkt beim Antippen; die dauerhafte untere Kernleiste und unnoetige schwarze Hoehenflaechen wurden entfernt. Der Vier-Ecken-Editor verwendet dieselbe Bildorientierung wie die Vorschau und verhindert dadurch unerwartete Hochkantdarstellung. Die Eck-Lupe zentriert den gewaehlten Quellpunkt nun exakt unter dem Fadenkreuz. Die OpenAI-Konfiguration wird vom aktualisierten lokalen Server korrekt gespeichert und weiterhin per Windows-DPAPI geschuetzt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.151/bOden_0.1.151_Patch.zip",
-  "version": "0.1.151",
+  "notes": "Bohrkern-GPT- und Scroll-Korrektur: Die optionale GPT-Stoerobjektentfernung ist jetzt funktionsfaehig im richtigen Arbeitskontext verdrahtet und direkt oben im rechten Bereich sichtbar. Sie zeigt klar GPT BEREIT, die Zahl erkannter Masken und bleibt ohne sichere Maske bewusst deaktiviert. Das unveraenderte Original bleibt wiederherstellbar. Die linke Foto-/Kistenliste besitzt wieder einen eigenstaendigen vertikalen Maus- und Touch-Scrollbereich.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.152/bOden_0.1.152_Patch.zip",
+  "version": "0.1.152",
   "updateType": "patch",
-  "baseVersion": "0.1.150",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.151/bOden-Patch-Installer-0.1.151.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.151/bOden_0.1.151_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.151/bOden_0.1.151_Portable.exe"
+  "baseVersion": "0.1.151",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.152/bOden-Patch-Installer-0.1.152.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.152/bOden_0.1.152_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.152/bOden_0.1.152_Portable.exe"
 }
