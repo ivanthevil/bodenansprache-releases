@@ -1,10 +1,10 @@
 {
-  "notes": "Bohrkern-Korrektur: GPT sucht Stoerobjekte jetzt selbst, nutzt die neue Kistenreferenz nur als visuelle Richtung und bewahrt ausserhalb bestaetigter Masken exakt die Originalpixel. Original und bereinigte Variante bleiben umschaltbar. Kisten werden nach der Vierpunkt-Entzerrung automatisch waagerecht ausgegeben. PDF-Tiefen stehen in einer eigenen Zeile ausserhalb der Kernbilder. ARCHIV-Entwuerfe lassen sich ueber einen internen bOden-Bestaetigungsdialog loeschen.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.153/bOden_0.1.153_Patch.zip",
-  "version": "0.1.153",
+  "notes": "Bohrkern-Workflow 4:3: Nach dem Fotoimport werden eine oder mehrere Kernkisten pro Foto manuell ueber vier Ecken begrenzt. Erst nach der perspektivischen Entzerrung erkennt bOden exakt zwei Kerne innerhalb jeder Kiste, sodass keine globalen Fremdobjekte oder gequetschten Koordinaten uebernommen werden. Der Kistenabgleich bleibt in einem festen 4:3-Bereich vertikal scrollbar. Die GPT-Bereinigung nutzt einen einheitlichen kompatiblen Endpunkt; alte und neue Routen bleiben erreichbar.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.154/bOden_0.1.154_Patch.zip",
+  "version": "0.1.154",
   "updateType": "patch",
-  "baseVersion": "0.1.152",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.153/bOden-Patch-Installer-0.1.153.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.153/bOden_0.1.153_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.153/bOden_0.1.153_Portable.exe"
+  "baseVersion": "0.1.153",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.154/bOden-Patch-Installer-0.1.154.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.154/bOden_0.1.154_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.154/bOden_0.1.154_Portable.exe"
 }
