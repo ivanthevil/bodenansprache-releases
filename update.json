@@ -1,10 +1,10 @@
 {
-  "notes": "Dokumentarische Offline-Bildpipeline fuer Bohrkernfotos: Mehrere vollstaendige Kistenkandidaten, grosse Touch-Eckpunkte und lokale Vierpunkt-Homografie ohne Retusche oder generative Pixel. Die Erkennung arbeitet auf einer verkleinerten Vorschau, waehrend Entzerrung und Export jetzt nachweislich auf der unverkleinerten Originaldatei erfolgen. EXIF- und manuelle Drehung werden getrennt protokolliert. Farb-, Kontrast- und Schaerfegrading sind deaktiviert; optionale Massstabs- und Farbpalettenleisten werden verlustfrei ausserhalb der unveraenderten Kistenpixel ergaenzt. LaMa wird aus bestehenden Installationen entfernt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.149/bOden_0.1.149_Patch.zip",
-  "version": "0.1.149",
+  "notes": "Bohrkern-Kistenwahl und Tablet-Bedienung: Die Auswahl mehrerer Liner ordnet nun automatisch die kleinste passende vollstaendige Kernkiste zu und erkennt auch nahe Zwei-Liner-Kisten mit Holzrahmen. Die gruen markierte Kistenflaeche ist deutlicher; eine einstellbare Eck-Lupe hilft beim praezisen Platzieren der vier Perspektivpunkte. Fehlende Projektdaten koennen mit Projektnummer, Projektname und Punktname manuell ergaenzt werden. Optional kann vor dem PDF-Export eine klar als generativ gekennzeichnete OpenAI-Stoerobjektentfernung gestartet werden; sie benoetigt einen eigenen API-Schluessel, uebertraegt nur bei ausdruecklicher Ausloesung und bewahrt das unveraenderte Original zur Wiederherstellung.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.150/bOden_0.1.150_Patch.zip",
+  "version": "0.1.150",
   "updateType": "patch",
-  "baseVersion": "0.1.147",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.149/bOden-Patch-Installer-0.1.149.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.149/bOden_0.1.149_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.149/bOden_0.1.149_Portable.exe"
+  "baseVersion": "0.1.149",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.150/bOden-Patch-Installer-0.1.150.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.150/bOden_0.1.150_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.150/bOden_0.1.150_Portable.exe"
 }
