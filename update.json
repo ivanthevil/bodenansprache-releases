@@ -1,10 +1,10 @@
 {
-  "notes": "Entwicklermodus: Zehnmaliges Tippen auf das kleinste A unter Einstellungen > Schriftgroesse schaltet dauerhaft das Entwicklermenue frei; ab Tipp vier zeigt bOden die verbleibenden Schritte. Erstes Werkzeug ist RAMME WIEDERHERSTELLEN: Eine gespeicherte Referenz-RAMME wird geladen, neue Projekt- und Punktdaten werden erfasst und ein klar als Rekonstruktion gekennzeichneter, fachlich zu pruefender RAMME-Entwurf mit aehnlichem, aber nicht 1:1 kopiertem Schlagverlauf erstellt. Sonderzeichen und Bemerkungen der Referenz werden nicht erfunden oder uebernommen.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.156/bOden_0.1.156_Patch.zip",
-  "version": "0.1.156",
+  "notes": "GeoDIN Fusion ist jetzt direkt in bOden integriert. Projekte und einzelne RKS/KRB-, DPH/DPM/DPL-, RAMME- und GWM-Punkte koennen gemeinsam zu einer GeoDIN-Datenbank komponiert werden. Gleich bezeichnete Punkte im selben Bauvorhaben werden intelligent als physischer Punkt gruppiert; explizite Verknuepfungen ueber +RKS/+RAMME/+GWM werden erhalten. Falsch-positive Zuordnungen lassen sich als dauerhafte Ausnahme getrennt behandeln. Vorhandene GeoDIN-MDBs koennen mit frei waehlbarer Master-Datenbank, Punktauswahl, Duplikatregel und automatischem Backup fusioniert werden. Das Startmenue wurde fuer Windows-Tablets kompakter angeordnet. Zusaetzlich steht ein vollstaendiger Buero-Installer bereit.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.157/bOden_0.1.157_Patch.zip",
+  "version": "0.1.157",
   "updateType": "patch",
-  "baseVersion": "0.1.155",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.156/bOden-Patch-Installer-0.1.156.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.156/bOden_0.1.156_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.156/bOden_0.1.156_Portable.exe"
+  "baseVersion": "0.1.156",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.157/bOden-Patch-Installer-0.1.157.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.157/bOden_0.1.157_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.157/bOden-Setup-0.1.157.exe"
 }
