@@ -1,10 +1,10 @@
 {
-  "notes": "Sofortreparatur fuer Installationen, die nach v0.1.157 mit 'Cannot find module ./core-tray-pipeline' nicht mehr starteten. Das Patch enthaelt jetzt alle direkt beim Programmstart benoetigten lokalen Servermodule. Die Paketvollstaendigkeit und der isolierte Serverstart werden vor der Veroeffentlichung automatisch getestet. GeoDIN Fusion, intelligente Punktverknuepfungen, Ausnahmen und das kompakte Tablet-Menue aus v0.1.157 bleiben erhalten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Patch.zip",
-  "version": "0.1.158",
+  "notes": "Tablet-Startmenue korrigiert: kompakte Karten mit stabiler Hoehe, begrenzten Langtexten und ohne Ueberlappungen oder abgeschnittene Menuepunkte. Die globale Schriftvergroesserung kann das Vier-Spalten-Raster auf kleinen Windows-Tablet-Displays nicht mehr sprengen. Geprueft bei 1366x768 und 1280x800.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.159/bOden_0.1.159_Patch.zip",
+  "version": "0.1.159",
   "updateType": "patch",
-  "baseVersion": "0.1.157",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Patch-Installer-0.1.158.exe",
+  "baseVersion": "0.1.158",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.159/bOden-Patch-Installer-0.1.159.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
