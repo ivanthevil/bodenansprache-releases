@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN Fusion ist jetzt direkt in bOden integriert. Projekte und einzelne RKS/KRB-, DPH/DPM/DPL-, RAMME- und GWM-Punkte koennen gemeinsam zu einer GeoDIN-Datenbank komponiert werden. Gleich bezeichnete Punkte im selben Bauvorhaben werden intelligent als physischer Punkt gruppiert; explizite Verknuepfungen ueber +RKS/+RAMME/+GWM werden erhalten. Falsch-positive Zuordnungen lassen sich als dauerhafte Ausnahme getrennt behandeln. Vorhandene GeoDIN-MDBs koennen mit frei waehlbarer Master-Datenbank, Punktauswahl, Duplikatregel und automatischem Backup fusioniert werden. Das Startmenue wurde fuer Windows-Tablets kompakter angeordnet. Zusaetzlich steht ein vollstaendiger Buero-Installer bereit.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.157/bOden_0.1.157_Patch.zip",
-  "version": "0.1.157",
+  "notes": "Sofortreparatur fuer Installationen, die nach v0.1.157 mit 'Cannot find module ./core-tray-pipeline' nicht mehr starteten. Das Patch enthaelt jetzt alle direkt beim Programmstart benoetigten lokalen Servermodule. Die Paketvollstaendigkeit und der isolierte Serverstart werden vor der Veroeffentlichung automatisch getestet. GeoDIN Fusion, intelligente Punktverknuepfungen, Ausnahmen und das kompakte Tablet-Menue aus v0.1.157 bleiben erhalten.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Patch.zip",
+  "version": "0.1.158",
   "updateType": "patch",
-  "baseVersion": "0.1.156",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.157/bOden-Patch-Installer-0.1.157.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.157/bOden_0.1.157_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.157/bOden-Setup-0.1.157.exe"
+  "baseVersion": "0.1.157",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Patch-Installer-0.1.158.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
+  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
