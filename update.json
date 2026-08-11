@@ -1,10 +1,10 @@
 {
-  "notes": "Tablet-Startmenue korrigiert: kompakte Karten mit stabiler Hoehe, begrenzten Langtexten und ohne Ueberlappungen oder abgeschnittene Menuepunkte. Die globale Schriftvergroesserung kann das Vier-Spalten-Raster auf kleinen Windows-Tablet-Displays nicht mehr sprengen. Geprueft bei 1366x768 und 1280x800.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.159/bOden_0.1.159_Patch.zip",
-  "version": "0.1.159",
+  "notes": "Entwicklerwerkzeuge verbessert: Die Freischaltung verschwindet beim Schliessen der Einstellungen wieder. RAMME Wiederherstellen verwendet jetzt den echten RAMME-Punktnamen und zeigt das zugehoerige Bauvorhaben. Neue Rammen erhalten standardmaessig das heutige Datum; Datum und eigene Starttiefe lassen sich ueber tabletgeeignete Rollen-Picker festlegen, und alle erzeugten Tiefen werden korrekt auf die neue Starttiefe umgerechnet.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.160/bOden_0.1.160_Patch.zip",
+  "version": "0.1.160",
   "updateType": "patch",
-  "baseVersion": "0.1.158",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.159/bOden-Patch-Installer-0.1.159.exe",
+  "baseVersion": "0.1.159",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.160/bOden-Patch-Installer-0.1.160.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
