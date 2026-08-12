@@ -1,10 +1,10 @@
 {
-  "notes": "Manager zaehlt beim GWM-Ausbau Spitze, Vollrohre, Filterrohre, Schutzrohre und weitere verwendete Materialien mit Stueckzahl und Rohrmetern aus. Die Bohrkern-Fotodokumentation startet beim Import keine unnoetige Vollbildanalyse mehr, sichert Entwuerfe ohne wiederholte grosse Bildserialisierung und stellt die linke sowie rechte Tablet-Spalte wieder als eigenstaendige Touch-Scrollbereiche bereit.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.161/bOden_0.1.161_Patch.zip",
-  "version": "0.1.161",
+  "notes": "Sichere bOden-Server-Synchronisierung ueber sync.b0den-taberg.de. Geraete werden einmalig gekoppelt, Zugangstoken mit Windows-Datenschutz geschuetzt und Projektdateien revisionsbasiert abgeglichen. Parallele Aenderungen werden nicht ueberschrieben, sondern als Konfliktkopie gesichert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.162/bOden_0.1.162_Patch.zip",
+  "version": "0.1.162",
   "updateType": "patch",
-  "baseVersion": "0.1.160",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.161/bOden-Patch-Installer-0.1.161.exe",
+  "baseVersion": "0.1.161",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.162/bOden-Patch-Installer-0.1.162.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
