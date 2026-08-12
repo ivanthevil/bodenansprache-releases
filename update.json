@@ -1,10 +1,10 @@
 {
   "notes": "Sichere bOden-Server-Synchronisierung ueber sync.b0den-taberg.de. Geraete werden einmalig gekoppelt, Zugangstoken mit Windows-Datenschutz geschuetzt und Projektdateien revisionsbasiert abgeglichen. Parallele Aenderungen werden nicht ueberschrieben, sondern als Konfliktkopie gesichert.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.162/bOden_0.1.162_Patch.zip",
+  "url": "https://sync.b0den-taberg.de/downloads/bOden_0.1.162_Patch.zip",
   "version": "0.1.162",
   "updateType": "patch",
   "baseVersion": "0.1.161",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.162/bOden-Patch-Installer-0.1.162.exe",
+  "installerUrl": "https://sync.b0den-taberg.de/downloads/bOden-Patch-Installer-0.1.162.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
