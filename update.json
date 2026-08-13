@@ -1,10 +1,10 @@
 {
-  "notes": "Korrigierte Projektnummern werden geraeteuebergreifend als Verschiebung uebernommen. Loeschungen werden synchronisiert und nicht mehr vom Server wiederhergestellt. DPH 19 liegt mit 78 Schlagwerten korrekt unter TAB260175.",
-  "url": "https://sync.b0den-taberg.de/downloads/bOden_0.1.165_Patch.zip",
-  "version": "0.1.165",
+  "notes": "Abweichende Punktlisten desselben Projekts werden jetzt verlustfrei zusammengefuehrt. Lokale Projektdateien mit gleicher Projektnummer und gleichem Bauvorhaben werden vor dem Upload konsolidiert und gesichert.",
+  "url": "https://sync.b0den-taberg.de/downloads/bOden_0.1.166_Patch.zip",
+  "version": "0.1.166",
   "updateType": "patch",
-  "baseVersion": "0.1.164",
-  "installerUrl": "https://sync.b0den-taberg.de/downloads/bOden-Patch-Installer-0.1.165.exe",
+  "baseVersion": "0.1.165",
+  "installerUrl": "https://sync.b0den-taberg.de/downloads/bOden-Patch-Installer-0.1.166.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
