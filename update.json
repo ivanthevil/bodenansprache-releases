@@ -1,10 +1,10 @@
 {
-  "notes": "Vereinheitlicht den NIIMBOT-Etikettendruck mit der Windows-Vorlage, korrigiert sichtbare deutsche Umlaute und zeigt in den Einstellungen immer die tatsächlich installierte App-Version an.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.168/bOden_0.1.168_Patch.zip",
-  "version": "0.1.168",
+  "notes": "Neue gruppierte Kopfzeile mit klar getrennten Bereichen für Navigation, App-Bereiche, Punktanlage und Dokumentaktionen. In der Rammsondierung legt + RAMME jetzt die nächste unabhängige DPL/DPM/DPH im selben Bauvorhaben an.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.169/bOden_0.1.169_Patch.zip",
+  "version": "0.1.169",
   "updateType": "patch",
-  "baseVersion": "0.1.167",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.168/bOden-Patch-Installer-0.1.168.exe",
+  "baseVersion": "0.1.168",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.169/bOden-Patch-Installer-0.1.169.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
