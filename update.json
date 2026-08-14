@@ -1,10 +1,10 @@
 {
-  "notes": "Neue gruppierte Kopfzeile mit klar getrennten Bereichen für Navigation, App-Bereiche, Punktanlage und Dokumentaktionen. In der Rammsondierung legt + RAMME jetzt die nächste unabhängige DPL/DPM/DPH im selben Bauvorhaben an.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.169/bOden_0.1.169_Patch.zip",
-  "version": "0.1.169",
+  "notes": "Scrollbarfreie Tablet-Navigation mit dauerhaft sichtbarer Bereichsleiste und vollständig sichtbaren Kontextaktionen. RAMME-Wiederherstellung lässt die Beschreibung leer und erzeugt keine Nullschläge. Android-PDFs bewahren Bildseitenverhältnisse; die Bohrkern-Fotodokumentation verwendet das kompakte Windows-Raster.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.170/bOden_0.1.170_Patch.zip",
+  "version": "0.1.170",
   "updateType": "patch",
-  "baseVersion": "0.1.168",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.169/bOden-Patch-Installer-0.1.169.exe",
+  "baseVersion": "0.1.169",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.170/bOden-Patch-Installer-0.1.170.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
