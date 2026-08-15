@@ -1,10 +1,10 @@
 {
-  "notes": "Scrollbarfreie Tablet-Navigation mit dauerhaft sichtbarer Bereichsleiste und vollständig sichtbaren Kontextaktionen. RAMME-Wiederherstellung lässt die Beschreibung leer und erzeugt keine Nullschläge. Android-PDFs bewahren Bildseitenverhältnisse; die Bohrkern-Fotodokumentation verwendet das kompakte Windows-Raster.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.170/bOden_0.1.170_Patch.zip",
-  "version": "0.1.170",
+  "notes": "Die linke Bereichsleiste wurde entfernt; globale Bereiche sind kompakt in der Kopfzeile gruppiert und die Tablet-Arbeitsbreite ist wieder vollständig nutzbar. Windows und Android verwenden dieselbe PDF-Basis und bewahren Bildseitenverhältnisse.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.171/bOden_0.1.171_Patch.zip",
+  "version": "0.1.171",
   "updateType": "patch",
-  "baseVersion": "0.1.169",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.170/bOden-Patch-Installer-0.1.170.exe",
+  "baseVersion": "0.1.170",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.171/bOden-Patch-Installer-0.1.171.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
