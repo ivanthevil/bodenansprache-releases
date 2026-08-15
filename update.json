@@ -1,10 +1,10 @@
 {
-  "notes": "Die LPV-Kopfzeile nutzt die freie linke Fläche jetzt für Punktaktionen. Lange LPV-Schilder bleiben auch mit Android-Schriftmetriken innerhalb ihrer Rahmen; das Metadatenraster und alle Dokumentaktionen bleiben vollständig sichtbar.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.172/bOden_0.1.172_Patch.zip",
-  "version": "0.1.172",
+  "notes": "GWM heißt jetzt PEGEL und unterstützt GWM sowie Bodenluft-Pegel (BLP). Manager- und PDF-Profile besitzen vollständige Endkonstruktionen und ENDTIEFE; Multi Punkt Edit benennt Punktarten sicher in Serie um.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.173/bOden_0.1.173_Patch.zip",
+  "version": "0.1.173",
   "updateType": "patch",
-  "baseVersion": "0.1.171",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.172/bOden-Patch-Installer-0.1.172.exe",
+  "baseVersion": "0.1.172",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.173/bOden-Patch-Installer-0.1.173.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
