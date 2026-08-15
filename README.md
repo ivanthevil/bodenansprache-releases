@@ -12,6 +12,6 @@ internen Patch-Updater.
 ## Plattformen
 
 - Windows-PC und Windows-Tablet: dieselbe portable `.exe` mit vollstaendigem bOden-Funktionsumfang
-- Android: separate Testapp **bOden Rueckbau** im Repository `boden-android-releases`; sie enthaelt nicht den vollstaendigen Windows-/Tablet-Funktionsumfang
+- Android-Tablet: gemeinsame bOden-Oberflaeche und Fachfunktionen im Repository `boden-android-releases`; plattformspezifische Datei-, Update- und Bluetooth-Schnittstellen werden nativ bereitgestellt
 
 In diesem Repository liegen keine Projektdateien, Fotos oder Kundendaten.
