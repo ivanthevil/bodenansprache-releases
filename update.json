@@ -1,10 +1,10 @@
 {
-  "notes": "Der Projektplan exportiert Satellitenkarten jetzt hochauflösend und unverzerrt. In der Druckvorschau stehen eine kompakte Fußzeile rechts und eine vertikale Infospalte mit Projektdaten, Legende und Fortschritt zur Auswahl.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.176/bOden_0.1.176_Patch.zip",
-  "version": "0.1.176",
+  "notes": "Der Projektplan nutzt die Kartenfläche im PDF vollständig, richtet Trennlinien sauber unter dem Text aus und zeigt Punktnamen mit gleichmäßigem Innenabstand. Eine neue Symbolbibliothek ergänzt GWM, BLP, RKS/KRB, DPH/Ramme, Doppelpunkt, LPV, Versickerung, Rückbau, Foto und Hinweis.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.177/bOden_0.1.177_Patch.zip",
+  "version": "0.1.177",
   "updateType": "patch",
-  "baseVersion": "0.1.175",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.176/bOden-Patch-Installer-0.1.176.exe",
+  "baseVersion": "0.1.176",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.177/bOden-Patch-Installer-0.1.177.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
