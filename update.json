@@ -1,10 +1,10 @@
 {
-  "notes": "Dünne Schichten im Manager werden nun kompakt in einer Zeile dargestellt. Tiefenbereich und vollständige Schichtbeschreibung bleiben dadurch auch bei sehr geringer Mächtigkeit lesbar, ohne die maßstäblichen Schichtgrenzen zu verschieben.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.175/bOden_0.1.175_Patch.zip",
-  "version": "0.1.175",
+  "notes": "Der Projektplan exportiert Satellitenkarten jetzt hochauflösend und unverzerrt. In der Druckvorschau stehen eine kompakte Fußzeile rechts und eine vertikale Infospalte mit Projektdaten, Legende und Fortschritt zur Auswahl.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.176/bOden_0.1.176_Patch.zip",
+  "version": "0.1.176",
   "updateType": "patch",
-  "baseVersion": "0.1.174",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.175/bOden-Patch-Installer-0.1.175.exe",
+  "baseVersion": "0.1.175",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.176/bOden-Patch-Installer-0.1.176.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden_0.1.158_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
