@@ -1,10 +1,10 @@
 {
-  "notes": "Windows-Start repariert: Der Preview-Loader verarbeitet den React-Quellstand wieder sicher und startet ohne ES-Modul-Syntaxfehler. Punktnamen werden jetzt über die stabile Punkt-ID geändert; der alte Name wird ersetzt statt als zweiter Punkt erhalten zu bleiben. Projektwechsel beim Umbenennen erfolgen atomisch und Namenskonflikte werden abgefangen. Enthält außerdem den vollständigen aktuellen Projektplan-, Manager-, Pegel- und Synchronisationsstand.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.181/bOden_0.1.181_Patch.zip",
-  "version": "0.1.181",
+  "notes": "Manager-Profilblätter wurden professionell in Richtung klassischer GeoDIN-Darstellung überarbeitet: A4 für Einzelprofile, A3 quer für Mehrprofil-Vergleiche, gemeinsame Tiefenachse, gut lesbare Rammsondierungsdiagramme sowie technische Kopf- und Fußbereiche. Bodenarten erhalten wieder farbige, DIN-orientierte Signaturen; Schraffuren sind zentriert und werden nicht mehr angeschnitten.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.182/bOden_0.1.182_Patch.zip",
+  "version": "0.1.182",
   "updateType": "patch",
-  "baseVersion": "0.1.180",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.181/bOden-Patch-Installer-0.1.181.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.181/bOden_0.1.181_Portable.exe",
+  "baseVersion": "0.1.181",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.182/bOden-Patch-Installer-0.1.182.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.182/bOden_0.1.182_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
