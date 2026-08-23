@@ -1,10 +1,10 @@
 {
-  "notes": "Manager-Profilblätter wurden professionell in Richtung klassischer GeoDIN-Darstellung überarbeitet: A4 für Einzelprofile, A3 quer für Mehrprofil-Vergleiche, gemeinsame Tiefenachse, gut lesbare Rammsondierungsdiagramme sowie technische Kopf- und Fußbereiche. Bodenarten erhalten wieder farbige, DIN-orientierte Signaturen; Schraffuren sind zentriert und werden nicht mehr angeschnitten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.182/bOden_0.1.182_Patch.zip",
-  "version": "0.1.182",
+  "notes": "Manager-Profilblätter: Android-Vorschau und PDF-Export sind jetzt vollständig lokal verbunden. Punktüberschriften, gemeinsame GOK-Linie, dynamische Zeichenerklärung, Bohrkern-/Endtiefenstatus, Rammsondierungszeichen und der detaillierte GWM-/BLP-Ausbau wurden korrigiert. Windows und Android verwenden denselben fachlichen Profilstand.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.183/bOden_0.1.183_Patch.zip",
+  "version": "0.1.183",
   "updateType": "patch",
-  "baseVersion": "0.1.181",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.182/bOden-Patch-Installer-0.1.182.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.182/bOden_0.1.182_Portable.exe",
+  "baseVersion": "0.1.182",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.183/bOden-Patch-Installer-0.1.183.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.183/bOden_0.1.183_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
