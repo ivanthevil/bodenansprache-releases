@@ -1,10 +1,10 @@
 {
-  "notes": "Manager-Profilblatt: gespeicherte Bohrkerncodes wie BK-Be werden zuverlässig als materialgerechter Bohrkern mit passender Signatur dargestellt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.187/bOden_0.1.187_Patch.zip",
-  "version": "0.1.187",
+  "notes": "Manager-Profilblatt: Bohrkerne werden zuverlässig bezeichnet, die letzte N10-Zahl bleibt frei sichtbar und der drucksichere Fußbereich zeigt das TABERG-Logo unverzerrt.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.188/bOden_0.1.188_Patch.zip",
+  "version": "0.1.188",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.187/bOden-Patch-Installer-0.1.187.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.187/bOden_0.1.187_Portable.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.188/bOden-Patch-Installer-0.1.188.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.188/bOden_0.1.188_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
