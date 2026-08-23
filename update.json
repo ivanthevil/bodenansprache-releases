@@ -1,10 +1,10 @@
 {
-  "notes": "Manager-Profilvergleich: Bei genau zwei Profilen nutzen Schichtenbeschreibung, DPH-Diagramm und N10-Werte die A3-Seite jetzt kompakt und gleichmäßig. Große ungenutzte Zwischenräume entfallen; Diagramme und Zahlen bleiben breit und lesbar. Drei- und Vierprofilvergleiche bleiben unverändert.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.191/bOden_0.1.191_Patch.zip",
-  "version": "0.1.191",
+  "notes": "Manager-Profilvergleich: Bei drei und vier Profilen nutzt die A3-Ausgabe jetzt gleich breite, getrennte Korridore für Schichtsignatur, Bodenansprache, GW-Hinweise, DPH/N10 und Pegelausbau. Lange Texte werden passend umbrochen und begrenzt; auch bei maximal vier Profilen entstehen keine Überlappungen.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.192/bOden_0.1.192_Patch.zip",
+  "version": "0.1.192",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.191/bOden-Patch-Installer-0.1.191.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.191/bOden_0.1.191_Portable.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.192/bOden-Patch-Installer-0.1.192.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.192/bOden_0.1.192_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
