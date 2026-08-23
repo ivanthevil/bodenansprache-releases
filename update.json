@@ -1,10 +1,10 @@
 {
-  "notes": "Manager-Profilblätter: getrennte Kopfzeilen für Bohrprofil, DPH und BLP/GWM; materialgerechte Beton-/Asphalt-/Mauerwerk-/Recycling-Signaturen für Bohrkerne; breitere Rammstatusspalte sowie klar gegliederte Zeichenerklärung.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.184/bOden_0.1.184_Patch.zip",
-  "version": "0.1.184",
+  "notes": "Manager-Profilblätter: echte Punktverknüpfungen statt veralteter Gruppen-IDs; materialgerechte Beton-/Asphalt-/Mauerwerk-/Recycling-Bohrkerne; kB hat Vorrang vor Endtiefe; angebohrtes Wasser, GOK, Pegelüberstand und eigener GWM-Wasserstand werden dargestellt.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.185/bOden_0.1.185_Patch.zip",
+  "version": "0.1.185",
   "updateType": "patch",
-  "baseVersion": "0.1.183",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.184/bOden-Patch-Installer-0.1.184.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.184/bOden_0.1.184_Portable.exe",
+  "baseVersion": "0.1.184",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.185/bOden-Patch-Installer-0.1.185.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.185/bOden_0.1.185_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
