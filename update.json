@@ -1,10 +1,10 @@
 {
-  "notes": "Manager-Profilblatt: Die Spitze der Wasserstandsmarke sitzt in Vorschau und PDF exakt auf der zugehörigen Tiefenlinie.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.189/bOden_0.1.189_Patch.zip",
-  "version": "0.1.189",
+  "notes": "Manager-Profilblatt: PROFILBLATT steht jetzt direkt beim Punktnamen; die doppelte rechte Beschriftung entfällt. Veraltete parallele Vorschauantworten können die aktuelle Darstellung nicht mehr überschreiben; Bohrkern-Materialangaben bleiben zuverlässig sichtbar.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.190/bOden_0.1.190_Patch.zip",
+  "version": "0.1.190",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.189/bOden-Patch-Installer-0.1.189.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.189/bOden_0.1.189_Portable.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.190/bOden-Patch-Installer-0.1.190.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.190/bOden_0.1.190_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
