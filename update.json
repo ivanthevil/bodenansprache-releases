@@ -1,10 +1,10 @@
 {
   "notes": "Bauvorhaben Edit repariert: Auch synchronisierte und ältere Projektdateien mit punktbezogenen Metadaten werden zuverlässig erkannt. Nur passende Punkte werden verschoben; andere Punkte bleiben erhalten und doppelte Datensätze werden vermieden.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.193/bOden_0.1.193_Patch.zip",
-  "version": "0.1.193",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.194/bOden_0.1.194_Patch.zip",
+  "version": "0.1.194",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.193/bOden-Patch-Installer-0.1.193.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.193/bOden_0.1.193_Portable.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.194/bOden-Patch-Installer-0.1.194.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.194/bOden_0.1.194_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
