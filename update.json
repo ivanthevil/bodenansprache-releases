@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-SSG-Kompatibilitätsupdate auf Grundlage der originalen Fugro-Systemdateien: Beton- und Asphaltbohrkerne werden mit den gültigen SSG-Codes a/zbt bzw. a/zas exportiert. Petrographie, Genese, Stratigraphie, Farbe, Gruppe, Bohrbarkeit, Bohrvorgang, Kalkgehalt und Zusatzangaben werden gegen die originalen GeoDIN-Wörterbücher validiert. b0den verwendet die originalen DIN-4023-Signaturdefinitionen; rote ungültige ybt/ygs-Codes und leere Signaturen entfallen.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.205/bOden_0.1.205_Patch.zip",
-  "version": "0.1.205",
+  "notes": "GeoDIN-Nachkorrektur für Kernschichten, Bauschutt und Feuchte: Beton- und Asphaltkerne werden zusätzlich ausdrücklich als Bohrkern Beton bzw. Bohrkern Asphalt in Ergänzende Bemerkungen dokumentiert. Reine Bauschutt-Auffüllung erhält PETRO=a,G und die offizielle SSG-Genese yy, damit GeoDIN eine sichtbare Signatur erzeugt. Erdfeucht verwendet nun den offiziellen Code ef; schwach feucht bleibt korrekt der getrennte Zustand wf2.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.206/bOden_0.1.206_Patch.zip",
+  "version": "0.1.206",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.205/bOden-Patch-Installer-0.1.205.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.206/bOden-Patch-Installer-0.1.206.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
