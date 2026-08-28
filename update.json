@@ -1,10 +1,10 @@
 {
-  "notes": "Korrigiertes Windows-Patchpaket: Die neuen Exportdateien werden jetzt im tatsächlich gestarteten resources/app-Verzeichnis installiert. Alle führenden y-Präfixe werden zentral aus Auffüllungscodes entfernt (z. B. a,gs statt a,ygs und a,bt statt a,ybt). BLP-Zuordnung und Server-Zusammenführung sind enthalten. TAB260175: 28/28 Punkte, 0 PETRO-Zeilen mit y.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.202/bOden_0.1.202_Patch.zip",
-  "version": "0.1.202",
+  "notes": "Korrigiert die GeoDIN-PETRO-Codes für Bohrkerne nach SEP3: Beton wird als a,ybt und Asphalt/Schwarzdecke als a,ygs exportiert. Dadurch werden Betonkerne nicht mehr fälschlich als bioturbat und Asphaltkerne nicht mehr als grobsandig interpretiert. BLP-Zuordnung und alle bisherigen Exportkorrekturen bleiben enthalten. TAB260175 wurde als vollständige MDB mit 28/28 Punkten geprüft.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.203/bOden_0.1.203_Patch.zip",
+  "version": "0.1.203",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.202/bOden-Patch-Installer-0.1.202.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.203/bOden-Patch-Installer-0.1.203.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
