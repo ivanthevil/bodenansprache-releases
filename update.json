@@ -1,10 +1,10 @@
 {
-  "notes": "Windows-Kompatibilitäts-Hotfix: Der Patch liefert nun zwingend die aktuelle Startseite mit. Dadurch werden React-Importe auch auf älteren Installationen korrekt entfernt; der Fehler 'Cannot use import statement outside a module' ist behoben. Der explizite interne Serverstart und alle GeoDIN-Korrekturen bleiben enthalten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Patch.zip",
-  "version": "0.1.197",
+  "notes": "Dringender GeoDIN-Hotfix: Beschädigte doppelte DPH-Wiederherstellungszeilen werden vor dem Export eindeutig bereinigt. Der Bauvorhaben-Export prüft jeden dauerhaft geschriebenen Punkt und die fertige MDB vollständig. TAB260175 / BGU Hellbachstraße wurde mit 47 Verfahren und 29 von 29 physischen Punkten erfolgreich getestet.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.198/bOden_0.1.198_Patch.zip",
+  "version": "0.1.198",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden-Patch-Installer-0.1.197.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.198/bOden-Patch-Installer-0.1.198.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
