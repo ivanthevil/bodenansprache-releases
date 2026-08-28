@@ -1,10 +1,10 @@
 {
-  "notes": "Dringender GeoDIN-BLP-Hotfix: Jeder GWM/BLP-Ausbau erhält jetzt den erforderlichen ASBSTAMM-Elterndatensatz. Bodenluftpegel werden zusätzlich in Punktstammdaten und Filterregister eindeutig als BLP gekennzeichnet. TAB260175 wurde mit RKS_BLP-29, RKS_DPH_BLP-9, KRB_BLP-21 und KRB_BLP-22 vollständig in der erzeugten MDB verifiziert.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.200/bOden_0.1.200_Patch.zip",
-  "version": "0.1.200",
+  "notes": "GeoDIN-BLP-Hotfix auf Exportserver-Ebene: Auch alte oder zwischengespeicherte Frontend-Datensätze wie GWM-KRB 29 werden anhand der originalen BLP-Daten sicher als BLP erkannt. Separate Bohr- und Pegeldatensätze werden vor dem MDB-Schreiben vereinigt. TAB260175 wird dadurch mit 28 statt 29 Punkten und korrekt als RKS_BLP-29, RKS_DPH_BLP-9, KRB_BLP-21 und KRB_BLP-22 exportiert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.201/bOden_0.1.201_Patch.zip",
+  "version": "0.1.201",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.200/bOden-Patch-Installer-0.1.200.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.201/bOden-Patch-Installer-0.1.201.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
