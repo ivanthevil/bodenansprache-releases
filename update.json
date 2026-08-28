@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Hotfix für Auffüllungen und Bodenluftpegel: Beton-Auffüllungen werden ohne ungültiges y-Präfix exportiert, FARBE überschreibt die Schwarz-Weiß-Auffüllungssignatur nicht mehr und BLP werden wie GWM mit ihren RKS/KRB/DPH-Punkten zusammengeführt. TAB260175 / BGU Hellbachstraße wurde vollständig mit 28 von 28 physischen Punkten und allen aktiven BLP getestet.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.199/bOden_0.1.199_Patch.zip",
-  "version": "0.1.199",
+  "notes": "Dringender GeoDIN-BLP-Hotfix: Jeder GWM/BLP-Ausbau erhält jetzt den erforderlichen ASBSTAMM-Elterndatensatz. Bodenluftpegel werden zusätzlich in Punktstammdaten und Filterregister eindeutig als BLP gekennzeichnet. TAB260175 wurde mit RKS_BLP-29, RKS_DPH_BLP-9, KRB_BLP-21 und KRB_BLP-22 vollständig in der erzeugten MDB verifiziert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.200/bOden_0.1.200_Patch.zip",
+  "version": "0.1.200",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.199/bOden-Patch-Installer-0.1.199.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.200/bOden-Patch-Installer-0.1.200.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
