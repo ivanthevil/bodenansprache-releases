@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Quellpunkte lassen sich vor der Fusion direkt umbenennen. Die Verknuepfung wird live angezeigt; fehlende Verfahren koennen zugleich in das gewaehlte b0den-Projekt uebernommen und spaeter bearbeitet werden.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.209/bOden_0.1.209_Patch.zip",
-  "version": "0.1.209",
+  "notes": "GeoDIN-Quellpunkte werden beim Rueckimport jetzt vollstaendig in editierbare b0den-Felder zerlegt. Schichten, Proben und das originale Aufschlussdatum werden aus der Quell-MDB uebernommen; bereits fehlerhaft importierte Punkte werden bei erneuter Fusion repariert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.210/bOden_0.1.210_Patch.zip",
+  "version": "0.1.210",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.209/bOden-Patch-Installer-0.1.209.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.210/bOden-Patch-Installer-0.1.210.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
