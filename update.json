@@ -1,10 +1,10 @@
 {
-  "notes": "Korrigiert die GeoDIN-Datenbankfusion grundlegend: Quellpunkte werden jetzt in das bestehende Hauptprojekt der Master-MDB importiert, statt ein zweites Projekt anzulegen. Gleich nummerierte KRB-, RKS-, DPH-, DPM-, DPL-, GWM- und BLP-Punkte werden methodengerecht unter derselben PRJ_ID und LOCID verknüpft; beispielsweise wird KRB 2 mit DPH 2 zu KRB_DPH-2. Bereits falsch angelegte Quellprojekte und Punktkopien werden beim erneuten Fusionieren bereinigt. Mit den bereitgestellten TAB260175-Datenbanken geprüft: 28 Masterpunkte plus 6 Quellpunkte ergeben korrekt ein einziges Masterprojekt mit 31 Objekten, drei intelligenten Verknüpfungen und drei neuen Punkten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.208/bOden_0.1.208_Patch.zip",
-  "version": "0.1.208",
+  "notes": "GeoDIN-Quellpunkte lassen sich vor der Fusion direkt umbenennen. Die Verknuepfung wird live angezeigt; fehlende Verfahren koennen zugleich in das gewaehlte b0den-Projekt uebernommen und spaeter bearbeitet werden.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.209/bOden_0.1.209_Patch.zip",
+  "version": "0.1.209",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.208/bOden-Patch-Installer-0.1.208.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.209/bOden-Patch-Installer-0.1.209.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
