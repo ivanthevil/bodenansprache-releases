@@ -1,10 +1,10 @@
 {
-  "notes": "Bauvorhaben Edit repariert: Auch synchronisierte und ältere Projektdateien mit punktbezogenen Metadaten werden zuverlässig erkannt. Nur passende Punkte werden verschoben; andere Punkte bleiben erhalten und doppelte Datensätze werden vermieden.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.194/bOden_0.1.194_Patch.zip",
-  "version": "0.1.194",
+  "notes": "GeoDIN-Auffüllungen korrigiert: PETRO verwendet jetzt die produktive Kennung a mit allen tatsächlichen Bestandteilen, GENESE bleibt y und GRUPPE bleibt leer. Die unnötige Signaturgrundlage wurde entfernt. Natürliche Auffüllungen ohne dokumentierte Fremdstoffe erhalten Boden inhomogen. Der Mehrpunktexport vergibt eindeutige Projekt-, Punkt- und LOCID-Kennungen; der Fehler 29 erwartet, 28 gefunden ist behoben.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.195/bOden_0.1.195_Patch.zip",
+  "version": "0.1.195",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.194/bOden-Patch-Installer-0.1.194.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.194/bOden_0.1.194_Portable.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.195/bOden-Patch-Installer-0.1.195.exe",
+  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.195/bOden_0.1.195_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
