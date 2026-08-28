@@ -1,10 +1,10 @@
 {
-  "notes": "Behandelt Asphalt- und Betonbohrkerne korrekt als eigenständige SEP3-Hauptbestandteile statt als Auffüllung: Asphaltkern wird als ygs, Betonkern als ybt exportiert. Das vorangestellte a, die Auffüllungs-Genese y und der Text Auffüllungsbestandteile entfallen bei Kernschichten. Bei normalen Auffüllungen wird die redundante Genese y entfernt, sodass Auffüllung in GeoDIN nicht mehr doppelt erscheint. TAB260175: 28/28 Punkte, 21/21 Kernschichten korrekt, 0 ungültige Kombinationszeilen.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.204/bOden_0.1.204_Patch.zip",
-  "version": "0.1.204",
+  "notes": "GeoDIN-SSG-Kompatibilitätsupdate auf Grundlage der originalen Fugro-Systemdateien: Beton- und Asphaltbohrkerne werden mit den gültigen SSG-Codes a/zbt bzw. a/zas exportiert. Petrographie, Genese, Stratigraphie, Farbe, Gruppe, Bohrbarkeit, Bohrvorgang, Kalkgehalt und Zusatzangaben werden gegen die originalen GeoDIN-Wörterbücher validiert. b0den verwendet die originalen DIN-4023-Signaturdefinitionen; rote ungültige ybt/ygs-Codes und leere Signaturen entfallen.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.205/bOden_0.1.205_Patch.zip",
+  "version": "0.1.205",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.204/bOden-Patch-Installer-0.1.204.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.205/bOden-Patch-Installer-0.1.205.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
