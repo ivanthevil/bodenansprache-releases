@@ -1,10 +1,10 @@
 {
-  "notes": "Korrigiert die GeoDIN-PETRO-Codes für Bohrkerne nach SEP3: Beton wird als a,ybt und Asphalt/Schwarzdecke als a,ygs exportiert. Dadurch werden Betonkerne nicht mehr fälschlich als bioturbat und Asphaltkerne nicht mehr als grobsandig interpretiert. BLP-Zuordnung und alle bisherigen Exportkorrekturen bleiben enthalten. TAB260175 wurde als vollständige MDB mit 28/28 Punkten geprüft.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.203/bOden_0.1.203_Patch.zip",
-  "version": "0.1.203",
+  "notes": "Behandelt Asphalt- und Betonbohrkerne korrekt als eigenständige SEP3-Hauptbestandteile statt als Auffüllung: Asphaltkern wird als ygs, Betonkern als ybt exportiert. Das vorangestellte a, die Auffüllungs-Genese y und der Text Auffüllungsbestandteile entfallen bei Kernschichten. Bei normalen Auffüllungen wird die redundante Genese y entfernt, sodass Auffüllung in GeoDIN nicht mehr doppelt erscheint. TAB260175: 28/28 Punkte, 21/21 Kernschichten korrekt, 0 ungültige Kombinationszeilen.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.204/bOden_0.1.204_Patch.zip",
+  "version": "0.1.204",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.203/bOden-Patch-Installer-0.1.203.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.204/bOden-Patch-Installer-0.1.204.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
