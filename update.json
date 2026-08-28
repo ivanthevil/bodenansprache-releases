@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Nachkorrektur für Kernschichten, Bauschutt und Feuchte: Beton- und Asphaltkerne werden zusätzlich ausdrücklich als Bohrkern Beton bzw. Bohrkern Asphalt in Ergänzende Bemerkungen dokumentiert. Reine Bauschutt-Auffüllung erhält PETRO=a,G und die offizielle SSG-Genese yy, damit GeoDIN eine sichtbare Signatur erzeugt. Erdfeucht verwendet nun den offiziellen Code ef; schwach feucht bleibt korrekt der getrennte Zustand wf2.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.206/bOden_0.1.206_Patch.zip",
-  "version": "0.1.206",
+  "notes": "Behebt die GeoDIN-Datenbankfusion bei Windows-Benutzer- und OneDrive-Pfaden mit Umlauten, insbesondere Pfaden wie C:\\Users\\Jürgen Moritz\\.... Die UTF-8-Fusionsanforderung wird jetzt von Windows PowerShell explizit als UTF-8 gelesen. Master-MDB, automatische Sicherung und Quelldatenbanken bleiben korrekt erreichbar. End-to-End geprüft: Fusion über einen Unicode-/Leerzeichen-Pfad, Backup erstellt und Master anschließend mit beiden Punkten erfolgreich validiert.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.207/bOden_0.1.207_Patch.zip",
+  "version": "0.1.207",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.206/bOden-Patch-Installer-0.1.206.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.207/bOden-Patch-Installer-0.1.207.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
