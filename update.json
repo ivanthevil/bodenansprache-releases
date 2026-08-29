@@ -1,10 +1,10 @@
 {
-  "notes": "Der Profile Composer erzeugt klar lesbare GeoDIN-orientierte Profilblätter: Schichttexte werden mit adaptiven Führungslinien kollisionsfrei verteilt, alle Ansprachen verwenden eine einheitliche Typografie, DPH-Diagramme erhalten eine projektweit einheitliche Tiefenskala und GW-/GOK-Markierungen bleiben in ihrem eigenen Profilkorridor ohne Überlagerungen.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.213/bOden_0.1.213_Patch.zip",
-  "version": "0.1.213",
+  "notes": "bOden prüft beim Start automatisch auf neue Updates und bietet UPDATE, SPÄTER oder IGNORIEREN an. SPÄTER erinnert beim nächsten Start erneut, IGNORIEREN gilt nur für die angezeigte Version. Zusätzlich enthält das Update die automatische Hintergrundsicherung und den aktuellen gemeinsamen Windows-/Android-Funktionsstand.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.214/bOden_0.1.214_Patch.zip",
+  "version": "0.1.214",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.213/bOden-Patch-Installer-0.1.213.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.214/bOden-Patch-Installer-0.1.214.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
