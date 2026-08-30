@@ -1,10 +1,10 @@
 {
-  "notes": "Der bisherige SharePoint-Bereich heißt jetzt Upload Portal und bietet zwei direkte Ziele: SharePoint und ShareSuite. ShareSuite ist unter sharesuite.mup-digital.com eingebunden; beide Portale verwenden getrennte, dauerhaft gespeicherte Login-Sitzungen sowie dieselbe Datei-, Navigations- und Tastatursteuerung.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.217/bOden_0.1.217_Patch.zip",
-  "version": "0.1.217",
+  "notes": "Behebt den eingefrorenen Neustart nach einem Windows-Patch. b0den lädt weiterhin nur den kleinen Änderungs-Patch und zusätzlich einen winzigen nativen Patch-Helfer, beendet sich danach kontrolliert, installiert das Update und startet automatisch neu.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.218/bOden_0.1.218_Patch.zip",
+  "version": "0.1.218",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.217/bOden-Patch-Installer-0.1.217.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.218/bOden-Patch-Installer-0.1.218.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
