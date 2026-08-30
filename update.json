@@ -1,10 +1,10 @@
 {
-  "notes": "bOden prüft beim Start automatisch auf neue Updates und bietet UPDATE, SPÄTER oder IGNORIEREN an. SPÄTER erinnert beim nächsten Start erneut, IGNORIEREN gilt nur für die angezeigte Version. Zusätzlich enthält das Update die automatische Hintergrundsicherung und den aktuellen gemeinsamen Windows-/Android-Funktionsstand.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.214/bOden_0.1.214_Patch.zip",
-  "version": "0.1.214",
+  "notes": "Punkte werden in Projekten und Bauvorhaben jetzt zuverlässig nach ihrer Punktnummer sortiert: 1, 2, 3 … 10 statt 1, 10, 2. Die natürliche Reihenfolge gilt einheitlich in Projektansicht, Manager, Profil- und Planauswahl, Fotos und Bohrkernauswahl.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.215/bOden_0.1.215_Patch.zip",
+  "version": "0.1.215",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.214/bOden-Patch-Installer-0.1.214.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.215/bOden-Patch-Installer-0.1.215.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
