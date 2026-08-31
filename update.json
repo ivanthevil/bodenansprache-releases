@@ -1,10 +1,10 @@
 {
-  "notes": "Neue Punkte werden vor dem ersten bewussten Speichern nicht mehr unsichtbar durch den Hintergrund-Autosave angelegt. Bereits entstandene Autosave-Punkte können sicher übernommen und aktualisiert werden.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.221/bOden_0.1.221_Patch.zip",
-  "version": "0.1.221",
+  "notes": "Kritischer Sicherheitsschutz: Überschreiben ist nur noch mit exakt bestätigter Datensatz-ID und exakt übereinstimmendem Punktnamen möglich. Vor jeder bestätigten Ersetzung wird automatisch eine Projektsicherung angelegt.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.222/bOden_0.1.222_Patch.zip",
+  "version": "0.1.222",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.221/bOden-Patch-Installer-0.1.221.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.222/bOden-Patch-Installer-0.1.222.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
