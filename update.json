@@ -1,10 +1,10 @@
 {
-  "notes": "Der Windows-Patch wird jetzt vollständig innerhalb von b0den installiert und anschließend über Electrons eigenen Neustart aktiviert. Es gibt keinen externen PowerShell- oder Patch-Helferprozess mehr, an dem die Anwendung einfrieren kann.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.219/bOden_0.1.219_Patch.zip",
-  "version": "0.1.219",
+  "notes": "Rammen in bestehenden Projekten speichern jetzt den sichtbaren Punktnamen zuverlässig, melden keine falschen Namensduplikate mehr und lassen sich über die zuletzt geöffneten Punkte wieder aufrufen. Ungesicherte Notfallkopien bleiben beim Projektwechsel erhalten.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.220/bOden_0.1.220_Patch.zip",
+  "version": "0.1.220",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.219/bOden-Patch-Installer-0.1.219.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.220/bOden-Patch-Installer-0.1.220.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
