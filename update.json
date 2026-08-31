@@ -1,10 +1,10 @@
 {
-  "notes": "Rammen in bestehenden Projekten speichern jetzt den sichtbaren Punktnamen zuverlässig, melden keine falschen Namensduplikate mehr und lassen sich über die zuletzt geöffneten Punkte wieder aufrufen. Ungesicherte Notfallkopien bleiben beim Projektwechsel erhalten.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.220/bOden_0.1.220_Patch.zip",
-  "version": "0.1.220",
+  "notes": "Neue Punkte werden vor dem ersten bewussten Speichern nicht mehr unsichtbar durch den Hintergrund-Autosave angelegt. Bereits entstandene Autosave-Punkte können sicher übernommen und aktualisiert werden.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.221/bOden_0.1.221_Patch.zip",
+  "version": "0.1.221",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.220/bOden-Patch-Installer-0.1.220.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.221/bOden-Patch-Installer-0.1.221.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
