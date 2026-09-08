@@ -1,10 +1,10 @@
 {
-  "notes": "BD-Dateien öffnen jetzt automatisch im passenden Arbeitsbereich. Reine Rammsondierungen und markierte Rettungsdateien werden als RAMME statt als RKS geöffnet.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.223/bOden_0.1.223_Patch.zip",
-  "version": "0.1.223",
+  "notes": "Feldkorrekturen: Methanolglas mit einem Etikett, freie Kopf-Felder, Tiefendarstellung, Datenrettung und Navigation. Android: Kamera-Freigaben, gespeicherter Bluetooth-Drucker und Löschung unbenannter Projekte. Methanol im GeODin-Export derzeit G (Glas) plus Klartext; eigener Code noch zu bestätigen.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.224/bOden_0.1.224_Patch.zip",
+  "version": "0.1.224",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.223/bOden-Patch-Installer-0.1.223.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.224/bOden-Patch-Installer-0.1.224.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
