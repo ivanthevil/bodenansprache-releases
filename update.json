@@ -1,10 +1,10 @@
 {
-  "notes": "Rückbau: Projekt/Bauvorhaben/Protokolle mit gemeinsamem Kopf; komprimierte Fotos separat gespeichert, Originale lokal erhalten; portable Sicherung mit Fotos. Foto-Synchronisation mit Prüfsummen und Schutz vor alten Clients. Server gesichert und aktualisiert. Bitte Windows und Android aktualisieren; App nicht deinstallieren.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.225/bOden_0.1.225_Patch.zip",
-  "version": "0.1.225",
+  "notes": "",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.226/bOden_0.1.226_Patch.zip",
+  "version": "0.1.226",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.225/bOden-Patch-Installer-0.1.225.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.226/bOden-Patch-Installer-0.1.226.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
