@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Export & Bodenansprache korrigiert (keine mehrfache Auffüllung mehr, Nebenbestandteile als Adjektive nach DIN 4022/4023, gestörte Bodenproben mit Probentyp G, Verwitterung in ZUSATZ, Schotter ohne Punkt). GWM-Ansicht, Ausbauskizze und GWM-GeoDIN-Export auf den bewährten Stand zurückgesetzt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.242/bOden_0.1.242_Patch.zip",
-  "version": "0.1.242",
+  "notes": "GeoDIN-Export optimiert: Schwarz-weiße DIN-4023-Auffüllungssignatur (GENESE=y ohne doppeltes Auffüllung-Präfix), bereinigte Konsistenz-Spannen in ERGBEM, automatische Zusammenführung gleicher Punktnummern im Bauvorhaben-Export sowie korrigierte Nebenbestandteil-Adjektive.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.243/bOden_0.1.243_Patch.zip",
+  "version": "0.1.243",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.242/bOden-Patch-Installer-0.1.242.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.243/bOden-Patch-Installer-0.1.243.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
