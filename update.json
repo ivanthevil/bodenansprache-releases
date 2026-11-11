@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Export: Fehler \"initSurvey is not defined\" beim Export von verknüpften Verfahren mit abweichendem Punktnamen behoben.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.244/bOden_0.1.244_Patch.zip",
-  "version": "0.1.244",
-  "updateType": "patch",
-  "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.244/bOden-Patch-Installer-0.1.244.exe",
-  "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
-  "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
+    "notes":  "Mobile Safe-Area \u0026 Android-Steuerung: Untere Buttons, Dialoge und Bottom-Sheets überlappen nicht mehr mit der Android-Navigationsleiste; schlankes Windows-Patch-Archiv (~11,5 MB).",
+    "url":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.245/bOden_0.1.245_Patch.zip",
+    "version":  "0.1.245",
+    "updateType":  "patch",
+    "baseVersion":  "0.1.185",
+    "installerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.245/bOden-Patch-Installer-0.1.245.exe",
+    "fullUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
+    "fullInstallerUrl":  "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
