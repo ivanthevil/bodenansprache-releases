@@ -1,10 +1,10 @@
 {
-  "notes": "GeoDIN-Export optimiert: Schwarz-weiße DIN-4023-Auffüllungssignatur (GENESE=y ohne doppeltes Auffüllung-Präfix), bereinigte Konsistenz-Spannen in ERGBEM, automatische Zusammenführung gleicher Punktnummern im Bauvorhaben-Export sowie korrigierte Nebenbestandteil-Adjektive.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.243/bOden_0.1.243_Patch.zip",
-  "version": "0.1.243",
+  "notes": "GeoDIN-Export: Fehler \"initSurvey is not defined\" beim Export von verknüpften Verfahren mit abweichendem Punktnamen behoben.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.244/bOden_0.1.244_Patch.zip",
+  "version": "0.1.244",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.243/bOden-Patch-Installer-0.1.243.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.244/bOden-Patch-Installer-0.1.244.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
