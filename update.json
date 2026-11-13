@@ -1,10 +1,10 @@
 {
-  "notes": "Neu: Funktion 'Probenahmeprotokoll' (Taberg-Vorlage mit Bauvorhaben ueber der Ueberschrift, bis zu 4 Fotos aus Kamera/Galerie mit RAM-Schutz gegen Mobil-Abstuerze, Skizze, Unterschrift sowie Excel- und PDF-Export).",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.249/bOden_0.1.249_Patch.zip",
-  "version": "0.1.249",
+  "notes": "Update Probenahmeprotokoll: Ort statt Anschrift (Veranlasser-Anschrift entfernt), automatische Projekt-Nr.-Uebernahme, Scroller/Numpad fuer Zahlen/Tiefe/Datum/Zeit, b0den-Picker fuer Ansprache/Farbe/Konsistenz/Geruch, mehrere Proben pro Protokoll mit Auto-Probenbezeichnung, ausgeblendete Mobile-Navigationsleiste bei aktiver Tastatur sowie Fotos mit b0den-Timestamp, Taberg-Logo und Zusatztext.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.250/bOden_0.1.250_Patch.zip",
+  "version": "0.1.250",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.249/bOden-Patch-Installer-0.1.249.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.250/bOden-Patch-Installer-0.1.250.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
