@@ -1,10 +1,10 @@
 {
-  "notes": "Rammsondierung & GeoDIN-Export: Fehler 'widerspruechliche Rammwerte' durch Sync-Merge-Duplikate behoben, automatische Stationsnummer-Hochzaehlung (z.B. DPH-TB01 -> DPH-TB02) bei '+ RAMME' ergaenzt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.248/bOden_0.1.248_Patch.zip",
-  "version": "0.1.248",
+  "notes": "Neu: Funktion 'Probenahmeprotokoll' (Taberg-Vorlage mit Bauvorhaben ueber der Ueberschrift, bis zu 4 Fotos aus Kamera/Galerie mit RAM-Schutz gegen Mobil-Abstuerze, Skizze, Unterschrift sowie Excel- und PDF-Export).",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.249/bOden_0.1.249_Patch.zip",
+  "version": "0.1.249",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.248/bOden-Patch-Installer-0.1.248.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.249/bOden-Patch-Installer-0.1.249.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
