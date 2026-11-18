@@ -1,10 +1,10 @@
 {
-  "notes": "Hotfix 0.1.259 / Mobile 0.5.29: Direkte Verknüpfungsbuttons („MIT … VERKNÜPFEN“ / „KOORDINATEN PRÜFEN“) direkt an den Konflikthinweisen in Projekte, über 180× schnellere Punktgruppierung in GeoDIN Fusion (kein Hänger bei 500+ Punkten), gezielter Projektfilter in der Fusion-Mittelspalte sowie zuverlässige Übernahme manueller Verknüpfungen in GeoDIN Komponieren & GeoDIN Fusion.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.259/bOden_0.1.259_Patch.zip",
-  "version": "0.1.259",
+  "notes": "Update 0.1.260 / Mobile 0.5.30: Interaktive Vorschaukarte in „Koordinaten & Höhen“ (OpenStreetMap, Luftbild NRW und Offline-Koordinatenraster) für „GPS Position holen“, alle gespeicherten Projektpunkte, Datei-Importvorschau, anklickbare Punktmarker und Live-Abstandsanzeige.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.260/bOden_0.1.260_Patch.zip",
+  "version": "0.1.260",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.259/bOden-Patch-Installer-0.1.259.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.260/bOden-Patch-Installer-0.1.260.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
