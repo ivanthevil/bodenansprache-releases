@@ -1,10 +1,10 @@
 {
-  "notes": "Update 0.1.257 / Mobile 0.5.27: GeoDIN-Signaturen für Pflaster/Pflasterung, Platten, Rasengittersteine, Estrich, Fliesen und Asphalt ergänzt; doppelte Fremd-Einträge (z. B. versehentliche DPH-Klone in RKS-Punkten) automatisch bereinigt und künftig beim Speichern sowie über + NEU und pendingBoringIdRef verhindert; Abweichungen bei Koordinaten/Höhen zwischen Punkten gleicher Nummer werden in Projekte, GeoDIN Fusion und beim Export klar ausgewiesen (inkl. optionaler manueller Verknüpfung in GeoDIN Fusion).",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.257/bOden_0.1.257_Patch.zip",
-  "version": "0.1.257",
+  "notes": "Hotfix 0.1.258 / Mobile 0.5.28: Behebt den Absturz beim Öffnen von Bauvorhaben unter Projekte (isExportLayerMeaningful) sowie das Durchsickern des zuletzt gespeicherten Ramm-/Pegel-/LPV-/Versickerungs-Verfahrens auf andere Bohrungen in loadProjectBoringRecord und GeoDIN Fusion, inklusive aller Fixes aus 0.1.257 (Pflaster-Signaturen, Koordinatenkonflikt-Hinweise und doppelte Fremd-Klone).",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.258/bOden_0.1.258_Patch.zip",
+  "version": "0.1.258",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.257/bOden-Patch-Installer-0.1.257.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.258/bOden-Patch-Installer-0.1.258.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
