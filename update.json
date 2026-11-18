@@ -1,10 +1,10 @@
 {
-  "notes": "Update 0.1.255 / Mobile 0.5.25: Unbeabsichtigte „Probenahme“-Einträge und doppelte „Verknüpft:“- bzw. Doppel-RKS-Anzeigen projektübergreifend behoben; bereits betroffene .bd-Projekte bereinigen leere Probenahme-Einträge sofort automatisch, und Punkt-Umbenennungen sowie RKS-Löschungen bleiben bei der Synchronisierung dauerhaft konsistent.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.255/bOden_0.1.255_Patch.zip",
-  "version": "0.1.255",
+  "notes": "Update 0.1.256 / Mobile 0.5.26: GeoDIN-Export und Punktverknüpfungen projektübergreifend repariert — KB/GWM/BLP/HP/SCH-Bohrungen werden nicht mehr fälschlich zu doppelten RKS umbenannt, Rammen und Pegel verknüpfen sich zuverlässig mit dem zugehörigen Bohrprofil (auch bei KB/GWM am gleichen Standort, führenden Nullen wie 01/1 oder abweichenden Unternamen), und Sync-Klone werden beim Export automatisch zusammengeführt.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.256/bOden_0.1.256_Patch.zip",
+  "version": "0.1.256",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.255/bOden-Patch-Installer-0.1.255.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.256/bOden-Patch-Installer-0.1.256.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
