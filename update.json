@@ -1,10 +1,10 @@
 {
-  "notes": "Update 0.1.254 / Mobile 0.5.24: Längenprüfung im GeoDIN-Feld KOMMENTAR (max. 254 Zeichen) bereinigt – doppelte Hinweise und unnötiges „Koordinatenbezug: LOCAL“ werden vermieden, aufeinanderfolgende Ramm-Hinweise verlustfrei zusammengefasst und längerer Zusatztext über Prüfhinweise statt Export-Abbruch gemeldet.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.254/bOden_0.1.254_Patch.zip",
-  "version": "0.1.254",
+  "notes": "Update 0.1.255 / Mobile 0.5.25: Unbeabsichtigte „Probenahme“-Einträge und doppelte „Verknüpft:“- bzw. Doppel-RKS-Anzeigen projektübergreifend behoben; bereits betroffene .bd-Projekte bereinigen leere Probenahme-Einträge sofort automatisch, und Punkt-Umbenennungen sowie RKS-Löschungen bleiben bei der Synchronisierung dauerhaft konsistent.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.255/bOden_0.1.255_Patch.zip",
+  "version": "0.1.255",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.254/bOden-Patch-Installer-0.1.254.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.255/bOden-Patch-Installer-0.1.255.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
