@@ -1,10 +1,10 @@
 {
-  "notes": "Update 0.1.252 / Mobile 0.5.22: GeoDIN-Mehrfachexport behoben (z. B. gleichnamige GWM/RKS-Punkte oder abweichende eingetragene Höhen werden sauber als getrennte GeoDIN-Punkte exportiert statt 'RKS bei ... mehrfach vorhanden' auszulösen); fehlende Schichttiefe (bis [m]) blockiert den GeoDIN-Export nicht mehr, leere Platzhalter-Hinweise werden bereinigt, fehlende Tiefenwerte in der App als 'tippen ...' statt irreführendem '0,00' angezeigt und mobile RKS-Erkennung bereinigt.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.252/bOden_0.1.252_Patch.zip",
-  "version": "0.1.252",
+  "notes": "Update 0.1.253 / Mobile 0.5.23: GeoDIN-Verknüpfung im GeoDIN-Arbeitsbereich und bei Mehrfachexporten weiter abgesichert (Konflikte bei Punktgruppen/Höhen werden sauber getrennt statt „RKS bei ... mehrfach vorhanden“ auszulösen); übernommene Punktkoordinaten/Höhen bleiben beim Zusammenführen von Verfahren erhalten und lecken nicht zwischen Punkten; Windows-Updater beendet vor dem Neustart den lokalen Server sauber und leert den App-Cache.",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.253/bOden_0.1.253_Patch.zip",
+  "version": "0.1.253",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.252/bOden-Patch-Installer-0.1.252.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.253/bOden-Patch-Installer-0.1.253.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
