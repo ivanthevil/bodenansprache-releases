@@ -1,10 +1,10 @@
 {
-  "notes": "Update 0.1.260 / Mobile 0.5.30: Interaktive Vorschaukarte in „Koordinaten & Höhen“ (OpenStreetMap, Luftbild NRW und Offline-Koordinatenraster) für „GPS Position holen“, alle gespeicherten Projektpunkte, Datei-Importvorschau, anklickbare Punktmarker und Live-Abstandsanzeige.",
-  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.260/bOden_0.1.260_Patch.zip",
-  "version": "0.1.260",
+  "notes": "Update 0.1.261 / Mobile 0.5.31: Emlid-Flow-Integration (Teilen an b0den auf Android, automatische App-Erkennung & Schnellstart, Emlid-CSV/GeoJSON-Import inkl. Elevation/m NHN, umschaltbar zwischen „Koordinaten + Höhen“ und „Nur Höhen (m NHN)“, automatischer 32-Präfix für GeoDIN EPSG:4647 sowie Zuordnung von Namen wie RKS/DPH 1; auf dem Handy direkt im Bauvorhaben erreichbar).",
+  "url": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.261/bOden_0.1.261_Patch.zip",
+  "version": "0.1.261",
   "updateType": "patch",
   "baseVersion": "0.1.185",
-  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.260/bOden-Patch-Installer-0.1.260.exe",
+  "installerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.261/bOden-Patch-Installer-0.1.261.exe",
   "fullUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.197/bOden_0.1.197_Portable.exe",
   "fullInstallerUrl": "https://github.com/ivanthevil/bodenansprache-releases/releases/download/v0.1.158/bOden-Setup-0.1.158.exe"
 }
